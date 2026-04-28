@@ -1,0 +1,101 @@
+# Pipeline — Ofertas Pendientes
+
+## Pendientes
+
+- [ ] https://boards.greenhouse.io/datadog/jobs/7477573 | Datadog | Technical Support Engineer 2
+- [ ] https://boards.greenhouse.io/datadog/jobs/7114602 | Datadog | Technical Support Engineer 1
+- [ ] https://boards.greenhouse.io/datadog/jobs/6882229 | Datadog | Technical Support Engineer 1-2
+- [ ] https://boards.greenhouse.io/datadog/jobs/6714710 | Datadog | Technical Support Engineer 2, Premier
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/6651977 | Cloudflare | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7096016 | Cloudflare | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7799134 | Cloudflare | Senior Solutions Engineer - Mid-Market - Austin
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7506182 | Cloudflare | Senior Technical Support Engineer, Developer Platform
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7164253 | Cloudflare | Premium Technical Support Engineer - Zero Trust
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7767766 | Cloudflare | Senior Solutions Engineer
+- [ ] https://boards.greenhouse.io/mongodb/jobs/7076858 | MongoDB | Senior Solutions Architect
+- [ ] https://boards.greenhouse.io/gitlab/jobs/5223370002 | GitLab | Support Engineer (EMEA)
+- [ ] https://boards.greenhouse.io/gitlab/jobs/5112746002 | GitLab | Support Engineer (APAC)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8287957002 | GitLab | Assigned Support Engineer (AMER)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/7846435002 | GitLab | Associate Support Engineer (AMER)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/7469581002 | GitLab | Support Engineer (AMER)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/7785825002 | GitLab | Support Engineer (Weekend Coverage - AMER)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8033662002 | GitLab | Support Engineer (Sunday Coverage - AMER)
+- [ ] https://boards.greenhouse.io/hubspotjobs/jobs/7371948 | HubSpot | Senior Solutions Engineer
+- [ ] https://boards.greenhouse.io/okta/jobs/6874522 | Okta | Technical Support Engineer
+- [ ] https://boards.greenhouse.io/okta/jobs/7282199 | Okta | Solutions Engineer
+- [ ] https://boards.greenhouse.io/okta/jobs/7307240 | Okta | Developer Support Engineer
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7535312 | Okta | Solutions Engineer, Okta
+- [ ] https://boards.greenhouse.io/okta/jobs/7833450 | Okta | Associate Solutions Engineer
+- [ ] https://boards.greenhouse.io/okta/jobs/7093064 | Okta | Developer Support Engineer
+- [ ] https://boards.greenhouse.io/okta/jobs/7251087 | Okta | IT Support Engineer
+- [ ] https://job-boards.greenhouse.io/oktajp/jobs/7061146 | Okta JP | Senior Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7612919 | Okta | Senior Solutions Engineer, Okta (ISPM)
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5691977004 | PagerDuty | Technical Support Engineer I
+- [ ] https://boards.greenhouse.io/pagerduty/jobs/5360016004 | PagerDuty | Technical Support Engineer I
+- [ ] https://boards.greenhouse.io/elastic/jobs/7013482 | Elastic | Senior Solutions Architect
+- [ ] https://boards.greenhouse.io/elastic/jobs/6860168 | Elastic | Partner Senior Solutions Architect
+- [ ] https://boards.greenhouse.io/elastic/jobs/7172345 | Elastic | Senior Solutions Architect - East
+- [ ] https://boards.greenhouse.io/airtable/jobs/7287308002 | Airtable | Solutions Engineer (Chicago, IL)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8497826002 | Airtable | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/7838952 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://job-boards.greenhouse.io/veza/jobs/5434737004 | Veza Technologies | Escalation Engineer
+- [ ] https://boards.greenhouse.io/outsetmedical/jobs/6509862002 | Outset Medical | Escalation Support Engineer
+- [ ] https://job-boards.greenhouse.io/nice/jobs/4712262101 | NICE | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/nametag/jobs/4053349009 | Nametag | Technical Customer Engineer
+- [ ] https://boards.greenhouse.io/github/jobs/3348745 | GitHub | Support Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/reddit/jobs/6831257 | Reddit | Senior Technical Support Engineer, Operations & Support
+- [ ] https://boards.greenhouse.io/customerio/jobs/4993465 | Customer.io | Technical Support Engineer II
+- [ ] https://job-boards.greenhouse.io/tenableinc/jobs/5134237008 | Tenable | Technical Support Engineer - Bilingual English/Spanish
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/4980637007 | Harbor | Implementation Engineer - Intapp
+- [ ] https://job-boards.greenhouse.io/casechek/jobs/4653684006 | Casechek | Technical Integration Engineer
+- [ ] https://job-boards.greenhouse.io/rapidsos/jobs/5087717007 | RapidSOS | Implementation Engineer
+- [ ] https://boards.greenhouse.io/harborglobal/jobs/4587499007 | Harbor | Implementation Engineer - Microsoft ADF
+- [ ] https://job-boards.greenhouse.io/warp/jobs/5832041004 | Warp | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/rapidsos/jobs/5087697007 | RapidSOS | Senior Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4663655005 | Tailscale | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/shift5/jobs/5706755004 | Shift5 | Integration Engineer
+- [ ] https://jobs.ashbyhq.com/rula/c7aafe5c-fc02-4b05-a5bd-d79b7681599e | Rula | IT Support Specialist (Remote)
+- [ ] https://jobs.ashbyhq.com/trust-wallet/e1910730-eb4f-43f0-962b-97f8b26529d7 | Trust Wallet | Technical Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/close/70a235e8-230f-492c-bb34-5559fe648298 | Close | Support Engineer (USA Only - 100% Remote)
+- [ ] https://jobs.ashbyhq.com/vanta/d3d48f3b-dfe6-44fa-b18c-2dc85e9bb4b0 | Vanta | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/zapier/d5f02861-1fab-4449-b9cc-8c3fc272c101 | Zapier | Sr. Technical Support Specialist, Premier (ANZ)
+- [ ] https://jobs.ashbyhq.com/openai/1a979fd4-1bce-484e-a416-aed2810677a6 | OpenAI | AI Support Engineer
+- [ ] https://jobs.ashbyhq.com/monarchmoney/ca983553-53d6-4b3c-85c8-220048f6763e | Monarch Money | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/38d5cc73-7799-47ca-9507-c601476f2c4b | n8n | Senior Support Engineer (Remote North America)
+- [ ] https://jobs.ashbyhq.com/Pace/052cfe7a-1d78-471b-bea2-79440a97dd3b/application | Pace | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/zapier/40b64aa9-925c-48a7-98cc-b0d6164860ed | Zapier | Technical Support Specialist - AMERS WEST
+- [ ] https://jobs.ashbyhq.com/illumio/3ee989b9-c582-40d4-9a21-d9e33addddb8 | Illumio | Escalation Engineer
+- [ ] https://jobs.ashbyhq.com/camunda/8ac3b265-22e9-4a94-882c-7d5dcfe3cf54/application | Camunda | Senior Escalation Support Engineer - Americas
+- [ ] https://jobs.ashbyhq.com/taaraconnect/96c69539-f4e5-4081-95e7-e0d8b430efe5/application | Taara | Technical Escalations Engineer
+- [ ] https://jobs.ashbyhq.com/semperis/09e323a0-afc7-48b2-b095-f025032e2d1b/application | Semperis | Software Engineer, Escalation
+- [ ] https://jobs.ashbyhq.com/illumio/98963c82-77d0-4bfb-9e7a-dde50c6080ef | Illumio | Sr. Escalation Engineer
+- [ ] https://jobs.ashbyhq.com/confluent/5db67700-4660-4aea-badf-3a25eed020b9/application | Confluent | Escalation Manager
+- [ ] https://jobs.ashbyhq.com/prokeep/68b0d256-739e-429f-b854-db1ad05cd1e9/application | Prokeep | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/aiwyn/2ec57996-0301-4c43-b872-a8c7d6b16351 | Aiwyn | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/docker/8e92ede2-2469-42a0-91aa-c791e773d20b | Docker | Senior Escalation & Incident Manager
+- [ ] https://jobs.ashbyhq.com/AlephAlpha/a069a4c3-882a-4e4c-8e9c-582f0e4b52ca | Aleph Alpha | Senior Support Engineer
+- [ ] https://jobs.lever.co/Sauce/656eaf33-2380-44b1-a2e7-a9e837b88318 | Sauce | Senior Support Engineer (Escalation Manager)
+- [ ] https://jobs.lever.co/clari/67078198-1d37-45ba-b7aa-52b881226e8b | Clari | Technical Support Engineer
+- [ ] https://jobs.lever.co/teleport/e203ac08-4d56-412e-b852-6bfdafa5ee8a | Teleport | Technical Support Engineer (APAC)
+- [ ] https://jobs.lever.co/shakudo/7b16951c-69b9-416c-9858-e906b8870470 | Shakudo | Technical Support Specialist
+- [ ] https://jobs.lever.co/oomnitza/63258704-9baf-4586-bd24-b26ae06a376a | Oomnitza | Senior Technical Support Engineer (EST Remote)
+- [ ] https://jobs.lever.co/useparagon.com/9ec5edbb-57bd-4655-b31b-3abd380918cc | Paragon | Technical Support Engineer
+- [ ] https://jobs.lever.co/megaport/83aa3eea-11e0-4283-b987-37ba1346f527 | Megaport | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/d89acc4a-8a79-42ed-9cd8-7a2d18b305ba | Jobgether | Senior Network Support Engineer, Tier III (Remote)
+- [ ] https://jobs.lever.co/superannotate/e92dcb71-4f0b-4136-b4c7-b564ac5812b9 | SuperAnnotate AI | Technical Support Engineer
+- [ ] https://jobs.lever.co/sanas.ai/6db5fdba-f8e1-4afc-a203-cb37fb15fb58 | Sanas.ai | Technical Support Engineer
+- [ ] https://wellfound.com/jobs/4013347-technical-support-engineer-l1-frontline-support | Databento | Technical Support Engineer (L1 / Frontline Support)
+- [ ] https://wellfound.com/jobs/3264511-technical-support-engineer-apac-us-remote | Unknown | Technical Support Engineer (APAC/US - Remote)
+- [ ] https://wellfound.com/jobs/1841356-support-engineer-emea | Tyk | Support Engineer - EMEA
+- [ ] https://wellfound.com/jobs/3199392-technical-support-engineer | Pepper | Technical Support Engineer
+- [ ] https://wellfound.com/jobs/3775455-senior-cloud-support-engineer | Netskope | Senior Cloud Support Engineer
+- [ ] https://wellfound.com/jobs/1559538-database-administrator-technical-support-engineer | Altinity | ClickHouse DBA / Technical Support Engineer
+- [ ] https://wellfound.com/jobs/3195785-customer-support-engineer-remote | Upbound | Customer Support Engineer (REMOTE)
+- [ ] https://apply.workable.com/opus2/j/E559DCEAA8/ | Opus 2 | Product Support Specialist
+- [ ] https://apply.workable.com/signalwire/j/EED2C2B418/ | SignalWire | Technical Support Specialist (Fully Remote)
+- [ ] https://apply.workable.com/orderdesk/j/683D77D121/ | Order Desk | Technical Support Specialist
+- [ ] https://apply.workable.com/legalmatch/j/E6B5B28460 | LegalMatch | Technical Support Specialist (Remote)
+- [ ] https://apply.workable.com/remote-recruitment/j/79CD4D8DE2 | Remote Recruitment | Technical Support Specialist - Wireless ISP
+- [ ] https://apply.workable.com/remote-va/j/A1603F08B9 | Remote VA | VoIP Customer Service & Technical Support Specialist
+- [ ] https://apply.workable.com/remote-va/j/35FB2F0469 | Remote VA | VoIP Technical Support Specialist
+- [ ] https://apply.workable.com/pavago/j/6D48906D71/ | Pavago | Technical Support Specialist (IT Support Specialist)
