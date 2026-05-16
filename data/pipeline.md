@@ -99,3 +99,16 @@
 - [ ] https://apply.workable.com/remote-va/j/A1603F08B9 | Remote VA | VoIP Customer Service & Technical Support Specialist
 - [ ] https://apply.workable.com/remote-va/j/35FB2F0469 | Remote VA | VoIP Technical Support Specialist
 - [ ] https://apply.workable.com/pavago/j/6D48906D71/ | Pavago | Technical Support Specialist (IT Support Specialist)
+- [ ] https://jobs.ashbyhq.com/cybernut/4e1b0238-f98d-4219-ae8f-6407b2d5437c | CyberNut | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/Junction/e1fc1b0c-7e17-467c-977b-947c509debb0 | Junction | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/90a1634b-81a8-4aa6-957d-951c1f142555 | n8n | Support Engineer L1 Support (EST Timezone)
+- [ ] https://jobs.ashbyhq.com/polymarket/d03ffef0-b8c6-4cf5-9e4a-cd73606be805 | Polymarket | Escalation Engineer, CX
+- [ ] https://job-boards.greenhouse.io/accela/jobs/7610268 | Accela | Technical Support Engineer (Frontline)
+- [ ] https://job-boards.greenhouse.io/airship/jobs/4736416101 | Airship | Lead Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/iterable/jobs/7485477 | Iterable | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/sourcegraph91/jobs/4918580004 | Sourcegraph | Senior Implementation Engineer - East
+- [ ] https://job-boards.greenhouse.io/brightfield/jobs/8429624002 | Brightfield | Senior Data Integration Engineer
+- [ ] https://jobs.lever.co/extremenetworks/48af4a14-99a8-4ee2-9362-4d23d05e6f01 | Extreme Networks | Technical Support Engineer - Remote USA
+- [ ] https://jobs.lever.co/Eve/8ee47c51-3480-4af6-8ab7-d8f22b7922e2 | Eve | Technical Support Engineer
+- [ ] https://apply.workable.com/roller-software/j/4C1DFC3FE4/ | ROLLER Software | Technical Support Specialist (POS, SaaS) - North America (Remote)
+- [ ] https://apply.workable.com/jobgether/j/6FA2768D6B | Jobgether | Technical Customer Support Specialist
