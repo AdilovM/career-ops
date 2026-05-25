@@ -112,3 +112,10 @@
 - [ ] https://jobs.lever.co/Eve/8ee47c51-3480-4af6-8ab7-d8f22b7922e2 | Eve | Technical Support Engineer
 - [ ] https://apply.workable.com/roller-software/j/4C1DFC3FE4/ | ROLLER Software | Technical Support Specialist (POS, SaaS) - North America (Remote)
 - [ ] https://apply.workable.com/jobgether/j/6FA2768D6B | Jobgether | Technical Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/inngest/3b9163fe-e0e4-426b-94e7-0f0d42f634c7 | Inngest | Support Escalations Engineer
+- [ ] https://job-boards.greenhouse.io/shiphawk/jobs/7608891 | ShipHawk | WMS Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4663656005 | Tailscale | Implementation Engineer
+- [ ] https://jobs.lever.co/aircall/bdf86e6b-0be4-4e58-b9ec-5bed1e3158dc | Aircall | Technical Support Specialist (API/Webhooks Specialist)
+- [ ] https://jobs.lever.co/coatesgroup/f67dc1bc-c4d0-405a-a04d-b4f909114603 | Coates Group | Technical Support Engineer (Level 3)
+- [ ] https://jobs.lever.co/pingcap/a54441f6-895a-48a4-a0b9-03ba02d00c58 | PingCAP | Support Escalation Engineer
+- [ ] https://wellfound.com/jobs/3147367-technical-support-engineer-federal-government-customers | Moveworks | Technical Support Engineer, Federal Government Customers
