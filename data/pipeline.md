@@ -119,3 +119,10 @@
 - [ ] https://jobs.lever.co/coatesgroup/f67dc1bc-c4d0-405a-a04d-b4f909114603 | Coates Group | Technical Support Engineer (Level 3)
 - [ ] https://jobs.lever.co/pingcap/a54441f6-895a-48a4-a0b9-03ba02d00c58 | PingCAP | Support Escalation Engineer
 - [ ] https://wellfound.com/jobs/3147367-technical-support-engineer-federal-government-customers | Moveworks | Technical Support Engineer, Federal Government Customers
+- [ ] https://jobs.ashbyhq.com/readme/cb287bbd-ccc4-4719-ac07-e7796ec24312 | ReadMe | Support Engineer
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/7767421 | Blueprint Technologies | Support Engineer 3
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5089117007 | Zscaler | Sr. Staff Integration Engineer (Security Platform and Data Pipelines)
+- [ ] https://jobs.lever.co/contentsquare/1bd1348e-45c5-4bb4-a700-cd84c85f8715 | Contentsquare | Technical Support Engineer, Tier 3
+- [ ] https://jobs.lever.co/welocalize/5ddbbe6a-307c-4519-8822-533ebbf4d0b0 | Welo Global | Technical Support Specialist
+- [ ] https://jobs.lever.co/oomnitza/d3fd1563-35b0-4a6a-ad66-465f91acbd24 | Oomnitza | Technical Support Analyst (East Coast Remote)
+- [ ] https://apply.workable.com/hirevue/j/DDF0D6B7A1/ | HireVue | Technical Support Specialist
