@@ -126,3 +126,18 @@
 - [ ] https://jobs.lever.co/welocalize/5ddbbe6a-307c-4519-8822-533ebbf4d0b0 | Welo Global | Technical Support Specialist
 - [ ] https://jobs.lever.co/oomnitza/d3fd1563-35b0-4a6a-ad66-465f91acbd24 | Oomnitza | Technical Support Analyst (East Coast Remote)
 - [ ] https://apply.workable.com/hirevue/j/DDF0D6B7A1/ | HireVue | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7397634 | Cloudflare | Technical Support Engineer, CDN/Developer Platform
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/6956862 | Cloudflare | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7612030 | Cloudflare | Technical Support Engineer, Application Performance
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7299746 | Cloudflare | Premium Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7612087 | Cloudflare | Senior Technical Support Engineer, Application Performance
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7388146 | Cloudflare | Premium Technical Support Engineer - Korean Speaking
+- [ ] https://job-boards.greenhouse.io/alphasense/jobs/8472085002 | AlphaSense | Staff Cloud Support Engineer
+- [ ] https://job-boards.greenhouse.io/remotewoman/jobs/8467383002 | Remote Woman | Cloud Support Engineer
+- [ ] https://job-boards.greenhouse.io/remotewoman/jobs/8520511002 | Remote Woman | Cloud Support Engineer
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5235189004 | PagerDuty | Help Desk Engineer Level 1
+- [ ] https://job-boards.greenhouse.io/veza/jobs/5704688004 | Veza Technologies | Sr Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/7565553002 | GitLab | Technical Program Manager, Escalation Specialist
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8231973002 | GitLab | Associate Support Engineer (AMER - PST/MST)
+- [ ] https://apply.workable.com/formassembly/j/598EE5ABA7/ | FormAssembly | Principal Technical Support Specialist
+- [ ] https://boards.greenhouse.io/samsara/jobs/7834003 | Samsara | L1 Senior Bilingual Technical Support Specialist
