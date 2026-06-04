@@ -141,3 +141,12 @@
 - [ ] https://job-boards.greenhouse.io/gitlab/jobs/8231973002 | GitLab | Associate Support Engineer (AMER - PST/MST)
 - [ ] https://apply.workable.com/formassembly/j/598EE5ABA7/ | FormAssembly | Principal Technical Support Specialist
 - [ ] https://boards.greenhouse.io/samsara/jobs/7834003 | Samsara | L1 Senior Bilingual Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/n8n/d4cd5955-7655-4feb-b6f3-ac4cf0867cd6 | n8n | Support Engineering Team Lead | Remote | US
+- [ ] https://jobs.ashbyhq.com/zapier/83ae6284-4103-42e4-b3e5-500f314ed4cb | Zapier | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/Mintlify/a6c882c1-eefd-49db-90ef-baa4edba1c58 | Mintlify | Support Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/Flock%20Safety/b5ad11ec-6732-48dd-bc7c-84b4205c9ccf/application | Flock Safety | Tier 2 Support Specialist, DFR
+- [ ] https://job-boards.greenhouse.io/infuse/jobs/4700121005 | INFUSE | IT Support Specialist (Contract, Remote)
+- [ ] https://job-boards.greenhouse.io/cleo/jobs/4670669005 | Cleo | Senior Implementation Engineer I
+- [ ] https://jobs.lever.co/deputy/aa07c2b5-5a76-40ed-8038-36371aa10fc8 | Deputy | Technical Support Engineer III
+- [ ] https://apply.workable.com/mediaradar/j/11286E72C5 | MediaRadar | Client Support Specialist
+- [ ] https://apply.workable.com/pavago/j/455CCAF59E/ | Pavago | Technical Support Specialist (IT Support Specialist)
