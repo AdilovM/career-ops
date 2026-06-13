@@ -150,3 +150,11 @@
 - [ ] https://jobs.lever.co/deputy/aa07c2b5-5a76-40ed-8038-36371aa10fc8 | Deputy | Technical Support Engineer III
 - [ ] https://apply.workable.com/mediaradar/j/11286E72C5 | MediaRadar | Client Support Specialist
 - [ ] https://apply.workable.com/pavago/j/455CCAF59E/ | Pavago | Technical Support Specialist (IT Support Specialist)
+- [ ] https://jobs.ashbyhq.com/everis/b283a107-be18-4219-a0b9-cf93933be92f | Everis | QA Engineer, Product & Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/semperis/87baa3c8-8bfc-49b8-a3e0-c4566279a022 | Semperis | Product Support Engineer
+- [ ] https://jobs.ashbyhq.com/phil/b74b9393-b51e-4813-b48a-13c012ad47c0 | PHIL | Client Escalations Specialist
+- [ ] https://jobs.lever.co/jobgether/2d94b364-6849-4ad6-a0db-6108731581e5 | Jobgether | Technical Support Engineer L1/L2 - REMOTE
+- [ ] https://wellfound.com/jobs/3991955-technical-support-engineer | Dataiku | Technical Support Engineer
+- [ ] https://apply.workable.com/earthcam/j/C24F6F12F4 | EarthCam | Technical Support Specialist Tier 2
+- [ ] https://apply.workable.com/360dialog-gmbh/j/318DB12A28 | 360dialog GmbH | Technical Support Specialist - Brazil
+- [ ] https://remotive.com/remote/jobs/customer-service/technical-support-engineer-3899361 | Team8 | Technical Support Engineer
