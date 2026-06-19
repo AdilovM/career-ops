@@ -158,3 +158,17 @@
 - [ ] https://apply.workable.com/earthcam/j/C24F6F12F4 | EarthCam | Technical Support Specialist Tier 2
 - [ ] https://apply.workable.com/360dialog-gmbh/j/318DB12A28 | 360dialog GmbH | Technical Support Specialist - Brazil
 - [ ] https://remotive.com/remote/jobs/customer-service/technical-support-engineer-3899361 | Team8 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/factory/a70c27d6-74a1-4856-8f57-3b9dae625789 | Factory | Technical Support Engineer - Remote APAC
+- [ ] https://jobs.ashbyhq.com/kota/fc71c85e-4292-4ab1-be2f-2d0ac046568f | Kota | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/nestmed/1a3eee98-4ec3-47b1-8ee6-8123e831ed99 | Nestmed | Technical Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/Voxel/5add9292-1fb1-42ec-b327-5373f63a26ea | Voxel | Tier 3 Support Engineer
+- [ ] https://jobs.ashbyhq.com/instructure/dab599a1-97b4-45a8-83c9-33998925b373 | Instructure | Part time - L1 Support Engineer - Spanish Backup
+- [ ] https://jobs.ashbyhq.com/angi/3f852343-00d6-46cf-9029-63e62cd54fa7 | Angi | IT Support Technician II
+- [ ] https://jobs.ashbyhq.com/Todyl/1826821e-c08b-48c3-aa57-00b463c455a1 | Todyl | Tier II – Technical Support & Network Engineer (EMEA)
+- [ ] https://job-boards.greenhouse.io/coretelligent/jobs/5257272008 | Coretelligent | Remote Support Engineer II
+- [ ] https://job-boards.greenhouse.io/legion/jobs/7772246003 | Legion | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/computergeneratedsolutions/jobs/5267354008 | CGS | Server Support Engineer - REMOTE
+- [ ] https://wellfound.com/jobs/2908481-support-engineer | PostHog | Support Engineer
+- [ ] https://apply.workable.com/extremereach/j/E9331A9D25/ | XR Extreme Reach | Senior Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8487502002 | Airtable | Senior Solutions Architect
+- [ ] https://job-boards.greenhouse.io/oktajp/jobs/6746047 | Okta JP | Developer Support Engineer
