@@ -172,3 +172,11 @@
 - [ ] https://apply.workable.com/extremereach/j/E9331A9D25/ | XR Extreme Reach | Senior Technical Support Specialist
 - [ ] https://job-boards.greenhouse.io/airtable/jobs/8487502002 | Airtable | Senior Solutions Architect
 - [ ] https://job-boards.greenhouse.io/oktajp/jobs/6746047 | Okta JP | Developer Support Engineer
+- [ ] https://jobs.ashbyhq.com/vultr/3a01ed6f-b8a3-4897-b8dd-ccd332ebd71f | Vultr | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/7961278 | Samsara | Solutions Integration Engineer II
+- [ ] https://job-boards.greenhouse.io/recidiviz/jobs/4677327006 | Recidiviz | Implementation Engineer
+- [ ] https://jobs.lever.co/mistral/c0c530e5-7224-4ff7-a105-2c932af73bb3 | Mistral AI | Technical Support Engineer, Enterprise
+- [ ] https://jobs.lever.co/Instrumentl/b4d2a259-c8eb-4a1d-b474-828abf203666 | Instrumentl | Customer Support & Operations Team Lead
+- [ ] https://wellfound.com/company/swym/jobs/439105-technical-support-engineer-saas | Swym | Technical Support Engineer (SaaS)
+- [ ] https://apply.workable.com/supportyourapp/j/1AAAD4D02B | SupportYourApp | Technical SaaS Support Specialist (Global, remote)
+- [ ] https://himalayas.app/companies/neat-no/jobs/technical-support-escalation-engineer-west-coast-remote-us | Neat | Technical Support Escalation Engineer
