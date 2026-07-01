@@ -180,3 +180,6 @@
 - [ ] https://wellfound.com/company/swym/jobs/439105-technical-support-engineer-saas | Swym | Technical Support Engineer (SaaS)
 - [ ] https://apply.workable.com/supportyourapp/j/1AAAD4D02B | SupportYourApp | Technical SaaS Support Specialist (Global, remote)
 - [ ] https://himalayas.app/companies/neat-no/jobs/technical-support-escalation-engineer-west-coast-remote-us | Neat | Technical Support Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7714607 | Adyen | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/adyen/jobs/7701227 | Adyen | Senior Implementation Engineer
+- [ ] https://jobs.lever.co/recast-software/dc4d79ba-1a5a-45a7-a7f4-19f646927fdd | Recast Software | Technical Support Engineer
