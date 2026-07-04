@@ -183,3 +183,8 @@
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/7714607 | Adyen | Implementation Engineer
 - [ ] https://job-boards.greenhouse.io/adyen/jobs/7701227 | Adyen | Senior Implementation Engineer
 - [ ] https://jobs.lever.co/recast-software/dc4d79ba-1a5a-45a7-a7f4-19f646927fdd | Recast Software | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/illumio/e790f10e-27c5-4992-a3e8-3bb7c25ae79a | Illumio | Escalation Engineer
+- [ ] https://jobs.ashbyhq.com/vapi/f07ff2a1-8b8a-4769-ab0d-dea7cc7ad3a7 | Vapi | Incident and Escalation Manager
+- [ ] https://jobs.lever.co/crypto/68828c2d-c57e-46d2-aef9-3802ef0fa85e | Crypto.com | Application Support Engineer (US)
+- [ ] https://jobs.lever.co/smarsh/0fe10eed-6b15-4177-b486-d08b61f90195 | Smarsh | Sr. Technical Support Engineer I
+- [ ] https://apply.workable.com/test-fuchs-corp/j/9AD1F61A75/ | Test-Fuchs Corp | Technical Support Specialist - Test & Ground Support Equipment
