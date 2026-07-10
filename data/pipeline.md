@@ -188,3 +188,19 @@
 - [ ] https://jobs.lever.co/crypto/68828c2d-c57e-46d2-aef9-3802ef0fa85e | Crypto.com | Application Support Engineer (US)
 - [ ] https://jobs.lever.co/smarsh/0fe10eed-6b15-4177-b486-d08b61f90195 | Smarsh | Sr. Technical Support Engineer I
 - [ ] https://apply.workable.com/test-fuchs-corp/j/9AD1F61A75/ | Test-Fuchs Corp | Technical Support Specialist - Test & Ground Support Equipment
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8016229 | Twilio | Technical Support Engineer 1
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7778507003 | LaunchDarkly | Senior Technical Support Engineer - APAC
+- [ ] https://job-boards.greenhouse.io/chainguard/jobs/4689095006 | Chainguard | Customer Support Manager
+- [ ] https://job-boards.greenhouse.io/nice/jobs/4754094101 | NICE | Senior Implementation Engineer
+- [ ] https://boards.greenhouse.io/datadog/jobs/6312920 | Datadog | Technical Support Engineer 3, Premier
+- [ ] https://boards.greenhouse.io/datadog/jobs/6517964 | Datadog | Technical Support Engineer 2
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/7496253 | Datadog | Technical Support Engineer 2, Premier - EMEA
+- [ ] https://boards.greenhouse.io/datadog/jobs/6849089 | Datadog | Technical Support Engineer 1 - Brazil
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/6133628 | Cloudflare | Technical Support Engineer - Japanese Speaking
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7487711 | Okta | Solutions Engineer, Okta
+- [ ] https://jobs.ashbyhq.com/percona/412f18cf-9329-4b74-89fa-7fae7aee022f | Percona | MongoDB Database Support Engineer (Remote)
+- [ ] https://jobs.lever.co/entrata/6f285ba2-ee23-4bc6-898c-e7f83df34bc4 | Entrata | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/98b4130b-4344-436a-a0ef-5e1e129ebc87 | Jobgether | Development Support Engineer
+- [ ] https://jobs.lever.co/distro/6e7af5ef-5504-4173-9e9b-b70720aeba8e | Distro | Level 2 IT Support Specialist (Client-Facing)
+- [ ] https://apply.workable.com/pacific-health-group/j/E4348B5900 | Pacific Health Group | Level 2 IT Help Desk Technician
+- [ ] https://apply.workable.com/hospitable/j/BE9898AAF6/ | Hospitable | Technical Support Engineer (Americas/EMEA - Remote)
