@@ -204,3 +204,5 @@
 - [ ] https://jobs.lever.co/distro/6e7af5ef-5504-4173-9e9b-b70720aeba8e | Distro | Level 2 IT Support Specialist (Client-Facing)
 - [ ] https://apply.workable.com/pacific-health-group/j/E4348B5900 | Pacific Health Group | Level 2 IT Help Desk Technician
 - [ ] https://apply.workable.com/hospitable/j/BE9898AAF6/ | Hospitable | Technical Support Engineer (Americas/EMEA - Remote)
+- [ ] https://apply.workable.com/mediaradar/j/D6266141D4 | MediaRadar | Client Support Specialist
+- [ ] https://apply.workable.com/jam-4/j/77F12FB468/ | JAM+ | Customer Support Specialist (Remote)
