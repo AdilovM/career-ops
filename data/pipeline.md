@@ -206,3 +206,10 @@
 - [ ] https://apply.workable.com/hospitable/j/BE9898AAF6/ | Hospitable | Technical Support Engineer (Americas/EMEA - Remote)
 - [ ] https://apply.workable.com/mediaradar/j/D6266141D4 | MediaRadar | Client Support Specialist
 - [ ] https://apply.workable.com/jam-4/j/77F12FB468/ | JAM+ | Customer Support Specialist (Remote)
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4715160005 | Tailscale | Senior Customer Support Engineer (Tier 3), Customer Escalations
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7964396 | Twilio | Technical Support Engineer 2
+- [ ] https://job-boards.greenhouse.io/fortrobotics/jobs/4708875005 | FORT Robotics | Sr. Customer Solutions Engineer
+- [ ] https://jobs.lever.co/jobgether/9f8f9ea4-a9e8-4a54-8c43-ac080da6294a | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/Sprinto/11a4a6e1-e891-48d1-b6b5-9cd71262b23f | Sprinto | Lead Product support Engineer
+- [ ] https://apply.workable.com/supportyourapp/j/7C95D93791 | SupportYourApp | Customer Support Consultant (native German) (remote)
+- [ ] https://apply.workable.com/360dialog-gmbh/j/7CD0007C06/ | 360dialog GmbH | Technical Support Specialist - EMEA
