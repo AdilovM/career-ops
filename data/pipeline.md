@@ -213,3 +213,27 @@
 - [ ] https://jobs.lever.co/Sprinto/11a4a6e1-e891-48d1-b6b5-9cd71262b23f | Sprinto | Lead Product support Engineer
 - [ ] https://apply.workable.com/supportyourapp/j/7C95D93791 | SupportYourApp | Customer Support Consultant (native German) (remote)
 - [ ] https://apply.workable.com/360dialog-gmbh/j/7CD0007C06/ | 360dialog GmbH | Technical Support Specialist - EMEA
+- [ ] https://jobs.lever.co/smiledigitalhealth/2b0bbe60-5bc3-4436-b9d3-2b322f68e379 | Smile Digital Health | Application Support Engineer (Remote Canada)
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5995007004 | PagerDuty | Executive IT Support
+- [ ] https://job-boards.greenhouse.io/medicusit/jobs/7546385003 | MedicusIT | Helpdesk Level 1 Engineer
+- [ ] https://job-boards.greenhouse.io/perfectserve/jobs/6109745004 | PerfectServe | Tier 1 Support Specialist - US Remote
+- [ ] https://jobs.ashbyhq.com/elevenlabs/e22e14d8-0766-445f-9570-6037c7300c73 | ElevenLabs | Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/elevenlabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0 | ElevenLabs | Technical Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/clearly-ai/f5914e0c-b67e-4eaa-9bc7-a62905e0050d | Clearly AI | Technical Customer Support Engineer - Security
+- [ ] https://jobs.ashbyhq.com/brightwheel/545a22d5-1111-4ec1-850e-fe7a4fd2f659 | brightwheel | Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/overflow/9df94920-f628-4f94-8916-ede021405b51 | Overflow | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/abridge/fefe2e4a-b05f-430b-b8fe-e748865d9444 | Abridge | Implementation Engineer (Remote)
+- [ ] https://jobs.ashbyhq.com/livekit/54698407-c1db-4a44-a409-3207b2d4c921 | LiveKit | Technical Account Manager
+- [ ] https://jobs.ashbyhq.com/Deepgram/844ec2d9-4256-4be0-a6c6-78ebf1391a78 | Deepgram | Solutions Architect (EST or PST)
+- [ ] https://jobs.ashbyhq.com/quadrivia/e4dfc761-582c-4241-8508-6f126a72d3dd | Quadrivia | Senior EHR Integration Engineer (Remote - US only)
+- [ ] https://jobs.ashbyhq.com/influxdata/16afd9c0-1ea3-4b9b-8f65-54728b59c047 | InfluxData | Technical Account Manager
+- [ ] https://jobs.ashbyhq.com/roboflow/fa06d985-6671-4cdd-afff-dc67344db1d6 | Roboflow | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7940112 | Okta | Senior Solutions Engineer (Mid Atlantic)
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7278231 | Okta | Senior Solutions Engineer (Enterprise North East)
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7405481 | Okta | Solutions Engineer, Auth0
+- [ ] https://jobs.lever.co/jobgether/c19cfe75-91c9-4064-9b94-5785a70dd51d | Jobgether | Remote Integration Solutions Architect
+- [ ] https://jobs.lever.co/jobgether/2313d309-8d2c-4588-8bbe-84a1f327a492 | Jobgether | Technical Account Manager
+- [ ] https://jobs.lever.co/highspot/0553a96d-bfdc-48ba-8ccc-a077ae00d5f5 | Highspot | Sr. Technical Account Manager - Remote
+- [ ] https://jobs.lever.co/yuno/ad80526e-51cd-463d-8377-88c3ed8de5df | Yuno | Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/7961297 | Datadog | Partner Technology Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/nice/jobs/4917175101 | NICE | Senior Technical Support Engineer
