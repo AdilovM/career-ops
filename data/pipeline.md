@@ -237,3 +237,9 @@
 - [ ] https://jobs.lever.co/yuno/ad80526e-51cd-463d-8377-88c3ed8de5df | Yuno | Technical Account Manager
 - [ ] https://job-boards.greenhouse.io/datadog/jobs/7961297 | Datadog | Partner Technology Solutions Engineer
 - [ ] https://job-boards.greenhouse.io/nice/jobs/4917175101 | NICE | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/clipboard/d77b2224-307f-48b1-a0ea-ab67153993c0 | Clipboard | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/96d809df-d383-417b-8906-37c6028304f2 | n8n | Senior Support Engineer (Remote US)
+- [ ] https://jobs.ashbyhq.com/aiwyn/5d47bfa4-3a15-4b81-9df8-c0cec9d73da8 | Aiwyn | Customer Escalation Manager
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4716226005 | Tailscale | Senior Customer Support Engineer (Tier 3) Customer Escalations
+- [ ] https://jobs.lever.co/jobgether/a754c84c-fae9-4455-98cf-c84f508d8585 | Jobgether | Technical Support Engineer (Netherlands)
+- [ ] https://jobs.lever.co/jobgether/b295a01a-3012-4250-a117-c86964163436 | Jobgether | Application Support Engineer
