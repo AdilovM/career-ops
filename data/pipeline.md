@@ -243,6 +243,6 @@
 - [ ] https://job-boards.greenhouse.io/tailscale/jobs/4716226005 | Tailscale | Senior Customer Support Engineer (Tier 3) Customer Escalations
 - [ ] https://jobs.lever.co/jobgether/a754c84c-fae9-4455-98cf-c84f508d8585 | Jobgether | Technical Support Engineer (Netherlands)
 - [ ] https://jobs.lever.co/jobgether/b295a01a-3012-4250-a117-c86964163436 | Jobgether | Application Support Engineer
-- [ ] https://jobs.ashbyhq.com/vanta/bdebe333-85f3-45c6-99fc-cc356e2ebfbb/application | Vanta | Technical Support Specialist - West Coast
-- [ ] https://jobs.lever.co/jobgether/3361ec04-a220-46b3-b7bd-d9770769db36 | Jobgether | Lead Technical Support Engineer
-- [ ] https://apply.workable.com/codeforce-362/j/5975A46E40/ | CodeForce | Technical Support Specialist L2 & L3
+- [x] #001 | https://jobs.ashbyhq.com/vanta/bdebe333-85f3-45c6-99fc-cc356e2ebfbb/application | Vanta | Technical Support Specialist - West Coast | 4.0/5 | PDF ❌
+- [x] #002 | https://jobs.lever.co/jobgether/3361ec04-a220-46b3-b7bd-d9770769db36 | Jobgether | Lead Technical Support Engineer | 3.2/5 | PDF ❌
+- [x] #003 | https://apply.workable.com/codeforce-362/j/5975A46E40/ | CodeForce | Technical Support Specialist L2 & L3 | 2.4/5 | PDF ❌
