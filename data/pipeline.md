@@ -246,3 +246,54 @@
 - [x] #001 | https://jobs.ashbyhq.com/vanta/bdebe333-85f3-45c6-99fc-cc356e2ebfbb/application | Vanta | Technical Support Specialist - West Coast | 4.0/5 | PDF ❌
 - [x] #002 | https://jobs.lever.co/jobgether/3361ec04-a220-46b3-b7bd-d9770769db36 | Jobgether | Lead Technical Support Engineer | 3.2/5 | PDF ❌
 - [x] #003 | https://apply.workable.com/codeforce-362/j/5975A46E40/ | CodeForce | Technical Support Specialist L2 & L3 | 2.4/5 | PDF ❌
+
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/7978468 | Datadog | Technical Support Engineer 1
+- [ ] https://job-boards.greenhouse.io/aidocmedical/jobs/4926487101 | Aidoc | Team Lead - Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/aidocmedical/jobs/4905355101 | Aidoc | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/pingidentity/jobs/8635125002 | Ping Identity | Senior Technical Support Engineer - Shifted Workweek
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/6896113 | Cloudflare | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/8018980 | Cloudflare | Field Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8001578 | Talkdesk | Lead Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/accela/jobs/7338962 | Accela | Software Support Engineer (Backline)
+- [ ] https://job-boards.greenhouse.io/cleo/jobs/4718011005 | Cleo | Support Engineer I
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8628780002 | GitLab | Support Engineer, U.S. Government Support
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/7653061002 | GitLab | Intermediate Support Engineer (US Federal)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8327916002 | Airtable | Senior Developer Support Engineer
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5493998004 | PagerDuty | Technical Support Engineer II
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5721255004 | PagerDuty | Technical Support Engineer II - San Francisco
+- [ ] https://jobs.ashbyhq.com/ashby/f2ba7c39-e5cb-47aa-8b80-74c0426725b7 | Ashby | Support Engineering Manager - Americas
+- [ ] https://jobs.ashbyhq.com/horizon3ai/983ab553-f5aa-4019-9851-1f8728d5f509 | Horizon3 AI | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/curri/f52b03a5-97db-4c6f-a1f6-e2f2e715821e | Curri | Tech Support Engineer I
+- [ ] https://jobs.ashbyhq.com/chainalysis-careers/45f29aaf-f9d7-437d-ba36-fec94d137ab1 | Chainalysis | Senior Solutions Architect (FDE) - Intelligence
+- [ ] https://jobs.ashbyhq.com/agility.io/38e53ba8-0aac-4c0f-9636-f38baa0b86b7 | Agility IO | Solutions Architect
+- [ ] https://jobs.ashbyhq.com/curri/0da884e4-ad46-44a2-9a87-3acfefe42026 | Curri | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/notabene/3745c904-d2e4-4b3f-a323-80c8c9308c56 | Notabene | Solutions Engineer, Americas [Remote]
+- [ ] https://jobs.ashbyhq.com/sardine/aabf9a4b-18ef-4932-ac20-4ed07eacd6ca | Sardine | Solutions Architect, Integrations (US/CA)
+- [ ] https://jobs.ashbyhq.com/Opal/c5db93fd-9263-4fa4-8b44-58909e2b19cc | Opal Security | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/decagon/83267854-2ea8-4322-8ba3-88c2dcb086a5 | Decagon | Solutions Architect - Salesforce
+- [ ] https://jobs.ashbyhq.com/1mind/052ca544-28c4-4fcb-a0a2-63140ccf0212 | 1mind | Customer Solutions Engineer, AI Agents
+- [ ] https://jobs.ashbyhq.com/deepgram/faef2c32-5084-48ca-8fff-e86d653f2697 | Deepgram | Customer Success Engineer (Americas)
+- [ ] https://jobs.ashbyhq.com/finvari/f95214e0-842c-474a-b867-1d8caf9fee28 | Finvari | Customer Success Engineer
+- [ ] https://jobs.ashbyhq.com/adaptive-ml/93c57271-9704-4543-bf7e-4adb5ae5f35f | Adaptive ML | Customer Success Engineer
+- [ ] https://jobs.ashbyhq.com/Alternativepayments/8d960a18-c2e9-47d7-af40-d726cc4c9da7/application | Alternative Payments | Onboarding Specialist (Customer Success)
+- [ ] https://jobs.lever.co/jobgether/2244d65c-09bc-4e52-b4e9-72ae6e6f19c0 | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/moonpay/68b92969-b011-41ea-814c-a16c837dd772 | MoonPay | Solutions Engineer
+- [ ] https://jobs.lever.co/swiftconnect/e6d40faa-81b5-41aa-af3b-cf6e33b5ff72 | SwiftConnect | Implementation Engineer
+- [ ] https://jobs.lever.co/levelai/d945bf73-e7f4-410f-8bd0-2b0c27195379 | Level AI | Implementation Engineer (Remote)
+- [ ] https://jobs.lever.co/jobgether/b8aff444-7eb7-4045-886e-0189cc29889e | Jobgether | Senior Technical Solutions Engineer
+- [ ] https://jobs.lever.co/yuno/7338fe7c-5b89-410a-b4cc-f4e17a1b50aa | Yuno | Implementation & Technical Account Manager Team Leader
+- [ ] https://jobs.lever.co/Ubiminds/5b973fb0-922c-4b96-9469-59db18b2c011 | Ubiminds | Sr. Technical Account Manager - Automation Test Engineer
+- [ ] https://jobs.lever.co/jobgether/39a9fe20-bca3-42ab-bc94-fe54cad6ec3c | Jobgether | Customer Success Engineer
+- [ ] https://jobs.lever.co/jobgether/219c7bbe-4eb7-4d3e-a6a1-e629feb86555 | Jobgether | Customer Success Engineer - REMOTE
+- [ ] https://jobs.lever.co/contentsquare/934cb7d3-71da-47ed-ac13-c622f6597222 | Contentsquare | Customer Support Engineer
+- [ ] https://jobs.lever.co/quantummetric/1306a5d8-c09f-458b-829b-7c9d8c1de29c | Quantum Metric | Customer Success Engineer - East/Central
+- [ ] https://jobs.lever.co/quantummetric/58e7a348-1de4-4f59-86b7-8e900cbaccd0 | Quantum Metric | Senior Customer Success Engineer - Mobile App
+- [ ] https://apply.workable.com/jobgether/j/60B81E0CD3 | Jobgether | Technical Support Engineer (Remote - US)
+- [ ] https://apply.workable.com/gigmos/j/3644AA711C/ | Gigmo Solutions | Technical Support Engineer - M365
+- [ ] https://apply.workable.com/codeforce-362/j/4EFD67DF60 | CodeForce | Technical Support Engineer - VOIP & MSP
+- [ ] https://apply.workable.com/remote-recruitment/j/E54F77B285/ | Remote Recruitment | Technical Support Engineer
+- [ ] https://apply.workable.com/staff4me/j/FD40F0041E | Staff4Me/CallTek | Level 3 (L3) Network Technical Support Engineer
+- [ ] https://apply.workable.com/stellar-cyber/j/2D2D6FD52B/ | Stellar Cyber | Senior Technical Support Engineer
+- [ ] https://apply.workable.com/zyte/j/07B2BCB696 | Zyte | Technical Support Engineer
+- [ ] https://apply.workable.com/talentpluto/j/8F0746A338 | talentpluto | Founding Support Engineer
+- [ ] https://apply.workable.com/risco/j/326D032D6C | RISCO Group | Technical Support Specialist
