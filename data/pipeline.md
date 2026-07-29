@@ -297,3 +297,8 @@
 - [ ] https://apply.workable.com/zyte/j/07B2BCB696 | Zyte | Technical Support Engineer
 - [ ] https://apply.workable.com/talentpluto/j/8F0746A338 | talentpluto | Founding Support Engineer
 - [ ] https://apply.workable.com/risco/j/326D032D6C | RISCO Group | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/federato/jobs/5271051008 | Federato | Technical Support Engineer II
+- [ ] https://boards.greenhouse.io/samsara/jobs/8068215 | Samsara | Technical Support Engineer - Remote - Mexico
+- [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/5365008008 | Obsidian Security | Senior Support Engineer
+- [ ] https://jobs.lever.co/jobgether/4238b24f-f795-4fb8-ab21-ebd377ce9e12 | Jobgether | Sr. Technical Support Engineer
+- [ ] https://apply.workable.com/interlaced/j/53EA241215 | Interlaced | IT Support Technician III
