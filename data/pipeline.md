@@ -302,3 +302,27 @@
 - [ ] https://job-boards.greenhouse.io/obsidiansecurity/jobs/5365008008 | Obsidian Security | Senior Support Engineer
 - [ ] https://jobs.lever.co/jobgether/4238b24f-f795-4fb8-ab21-ebd377ce9e12 | Jobgether | Sr. Technical Support Engineer
 - [ ] https://apply.workable.com/interlaced/j/53EA241215 | Interlaced | IT Support Technician III
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/7895238 | Twilio | Technical Support Engineer 2, Platform and Applications
+- [ ] https://job-boards.greenhouse.io/databento/jobs/7976254 | Databento | Technical Support Engineer (L1/Frontline Support), APAC
+- [ ] https://job-boards.greenhouse.io/akuity/jobs/4322839009 | Akuity | Technical Support Engineer, AMER West
+- [ ] https://job-boards.greenhouse.io/rapidfortinc/jobs/4239573009 | RapidFort | Senior Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/twilio/jobs/8081664 | Twilio | Staff Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/telnyx54/jobs/7776490003 | Telnyx | Solutions Engineer, LATAM (Remote)
+- [ ] https://job-boards.greenhouse.io/bitgo/jobs/8575180002 | BitGo | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/logicgate/jobs/4716078005 | LogicGate | Solutions Engineer / Senior Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7525971 | Cloudflare | Specialist Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/camunda/1810625c-4515-4260-997e-ee25ac11bdfd/application | Camunda | Technical Support Engineer - Remote EMEA
+- [ ] https://jobs.ashbyhq.com/fullstory/6d6ab651-fb2a-46d3-8a2b-a9dfd181eb5a | Fullstory | Senior Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/TensorWave/8acd26a4-9df8-48fa-b767-dbf57d6bd0ba | TensorWave | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/netgear/dd4be379-2a1e-466a-8d7c-222819d9ed39 | NETGEAR | Service Delivery and Premium Support Engineer
+- [ ] https://jobs.ashbyhq.com/Paragon/41c52f8c-53df-41ba-a53a-4b4e3d7df9e8 | Paragon | Solutions Engineer (Post-Sales, Implementation)
+- [ ] https://jobs.ashbyhq.com/factory/5535c193-cbfb-482c-81d9-8bda93d65391 | Factory | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/siena/c5430e14-d8bd-4e9a-b36e-4648306dad54 | Siena AI | Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/absorblms/169ebd22-53f8-475b-b15a-cfb0811c02db | Absorb | Presales Solutions Engineer
+- [ ] https://jobs.lever.co/jobgether/2aa35172-0593-4114-a3cb-551835208fd5 | Jobgether | Security Technical Support Engineer
+- [ ] https://jobs.lever.co/truv/44887790-6b1c-4920-9958-c1fdb10baf85 | Truv | Senior Customer Success Engineer
+- [ ] https://job-boards.greenhouse.io/axon/jobs/7804663003 | Axon | Technical Support Engineer, Axon 911
+- [ ] https://job-boards.greenhouse.io/dragos/jobs/5255038008 | Dragos | Staff Engineering Support Engineer
+- [ ] https://job-boards.greenhouse.io/topsteptrader/jobs/7771686003 | Topstep | Support Engineer
+- [ ] https://job-boards.greenhouse.io/accesso/jobs/5114675007 | accesso | Data Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/aerospike/jobs/8637058002 | Aerospike | Solutions Architect
