@@ -326,3 +326,11 @@
 - [ ] https://job-boards.greenhouse.io/topsteptrader/jobs/7771686003 | Topstep | Support Engineer
 - [ ] https://job-boards.greenhouse.io/accesso/jobs/5114675007 | accesso | Data Implementation Engineer
 - [ ] https://job-boards.greenhouse.io/aerospike/jobs/8637058002 | Aerospike | Solutions Architect
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/7999886002 | GitLab | Support Engineer (EMEA)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/7743536002 | GitLab | Senior Support Engineer (AMER)
+- [ ] https://jobs.lever.co/jobgether/24d5fbc9-779d-40a9-be47-617edd2b3540 | Jobgether | Implementation Engineer - REMOTE
+- [ ] https://jobs.lever.co/jobgether/0aa240b6-a96e-4ab3-a7a3-ad1f045c7d80 | Jobgether | Remote Senior Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/f959caad-f52d-4256-b561-b7b7f97b19b5 | Jobgether | Integration Specialist (Tibco, IBM Sterling and APIs)
+- [ ] https://jobs.lever.co/includedhealth/07fa8b0d-6684-4fea-93c0-5f8bf3e683fc | Included Health | Implementation Specialist
+- [ ] https://jobs.lever.co/LuminDigital/f808096c-643a-423b-9de3-491f3b0ea771 | Lumin Digital | Senior Software Implementation Engineer
+- [ ] https://apply.workable.com/pavago/j/E96094C807 | Pavago | Technical Support Specialist
