@@ -334,3 +334,6 @@
 - [ ] https://jobs.lever.co/includedhealth/07fa8b0d-6684-4fea-93c0-5f8bf3e683fc | Included Health | Implementation Specialist
 - [ ] https://jobs.lever.co/LuminDigital/f808096c-643a-423b-9de3-491f3b0ea771 | Lumin Digital | Senior Software Implementation Engineer
 - [ ] https://apply.workable.com/pavago/j/E96094C807 | Pavago | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/gen-digital/a9fe9826-dd62-4e2b-a68d-6622d019e147 | Gen Digital | Senior IT Support Specialist
+- [ ] https://job-boards.greenhouse.io/canopytax/jobs/4324675009 | Canopy | Technical Support Engineer
+- [ ] https://jobs.lever.co/istaridigital.ai/6ddde1fd-663b-4bb6-ba03-5d5e192f4b5a | Istari Digital | Technical Support Engineer
