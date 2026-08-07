@@ -337,3 +337,15 @@
 - [ ] https://jobs.ashbyhq.com/gen-digital/a9fe9826-dd62-4e2b-a68d-6622d019e147 | Gen Digital | Senior IT Support Specialist
 - [ ] https://job-boards.greenhouse.io/canopytax/jobs/4324675009 | Canopy | Technical Support Engineer
 - [ ] https://jobs.lever.co/istaridigital.ai/6ddde1fd-663b-4bb6-ba03-5d5e192f4b5a | Istari Digital | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/scaleops/jobs/4921321101 | ScaleOps | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/oktajp/jobs/7057890 | Okta JP | Developer Support Engineer
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6121633004 | Grafana Labs | Solutions Engineer (UK)
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7926000 | Greenhouse | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5547316004 | Vercel | Manager, Customer Support Engineering, APAC
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5734604004 | Figma | Community Support Specialist
+- [ ] https://jobs.ashbyhq.com/cluely/8df702c4-22fc-4797-9c92-2df9e6f096c2 | Cluely | Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/rutter/2928fc25-4233-4b2f-8d58-01b5d026523c | Rutter | Support Engineer (Remote Contractor, Latin America)
+- [ ] https://jobs.lever.co/bluesight/b84bfbbb-3fea-4997-8123-a481d4fb35f3 | Bluesight | Technical Support Engineer - PrivacyPro
+- [ ] https://apply.workable.com/deskpro/j/D2A94FD900/ | Deskpro | Remote Technical Support Engineer SaaS
+- [ ] https://apply.workable.com/jobgether/j/BBBF9209E4/ | Jobgether | Technical Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/instructure/c7f174bd-9e69-4cb8-b7fd-45cde88d238c | Instructure | L1 Support Engineer
