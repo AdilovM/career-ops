@@ -349,3 +349,17 @@
 - [ ] https://apply.workable.com/deskpro/j/D2A94FD900/ | Deskpro | Remote Technical Support Engineer SaaS
 - [ ] https://apply.workable.com/jobgether/j/BBBF9209E4/ | Jobgether | Technical Customer Support Specialist
 - [ ] https://jobs.ashbyhq.com/instructure/c7f174bd-9e69-4cb8-b7fd-45cde88d238c | Instructure | L1 Support Engineer
+- [ ] https://jobs.ashbyhq.com/sentry/725334ed-ffef-4ead-8606-103267d9d640 | Sentry | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/atlan/13394a9a-35f6-40b0-b770-e29b1f84c143 | Atlan | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/nooks/fdfb005b-4183-417d-9d29-b8eb9286095a | Nooks | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/horizon3ai/eaf4c475-fe44-45ef-b35a-9eee3795984b | Horizon3 AI | Technical Support Engineer, EMEA
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5549441004 | ClickHouse | Technical Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/tenableinc/jobs/5271457008 | Tenable | Technical Support Engineer (Remote/West Coast)
+- [ ] https://job-boards.greenhouse.io/togetherai/jobs/5202015007 | Together AI | Technical Support Engineer (GPU Clusters)
+- [ ] https://jobs.lever.co/jobgether/277c7311-1b35-436a-bb1a-081aae061827 | Jobgether | Customer Solutions Architect
+- [ ] https://jobs.lever.co/wishpond/132afb38-167d-41a4-a5f3-a1dd75d77ed9 | Wishpond | Solution Engineer (100% Remote)
+- [ ] https://jobs.lever.co/catena-clearing/13f22ce7-b917-4d32-ae99-b36d981e335a | Catena Clearing | Customer Success Engineer
+- [ ] https://jobs.lever.co/tsmg/09b33bf7-1f6c-4949-9f76-2e64c9b1dfc4 | TSMG | Senior Solutions Engineer
+- [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
+- [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
