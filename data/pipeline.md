@@ -363,3 +363,8 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/clickup/7dd8ee42-c5cb-4569-8f91-f488cf9d404c | ClickUp | Escalations Engineer
+- [ ] https://boards.greenhouse.io/checkr/jobs/4716757 | Checkr | Senior Integration Engineer
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://jobs.lever.co/weloglobal/0272daa4-b5cc-4df7-8aef-330e1f8b7660 | Welo Global | IT Support Engineer
+- [ ] https://apply.workable.com/cerge/j/AE66E6A77C/ | Cerge | IT Support Specialist
