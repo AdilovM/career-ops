@@ -363,3 +363,13 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/absorblms/0ef6cbbc-246b-474d-9530-02c35ba726bb | Absorb | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/vanta/f98ff59f-8732-48a6-a60c-3367a0f288e5 | Vanta | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/e4315cde-bab6-4075-bc3a-303425053669 | Jobgether | Application Support Engineer
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8684078002 | GitLab | Intermediate Support Engineer (SHIFT)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8645825002 | GitLab | Senior Assigned Support Engineer (EMEA)
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5802956004 | Figma | Support Engineer, AI Infrastructure
+- [ ] https://jobs.ashbyhq.com/growthtroops/481f8bd3-764b-40c0-9a6f-daebeb5703cf/application | Growth Troops | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/kontakt/3de9d4b5-4f42-4d04-ac33-d591b3471857 | Kontakt.io | Customer Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/medsender/bb2e779a-c278-4cdc-87f3-4748ff2320e3 | Medsender | Customer Support Specialist
