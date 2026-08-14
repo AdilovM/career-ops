@@ -363,3 +363,25 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/vanta/f98ff59f-8732-48a6-a60c-3367a0f288e5 | Vanta | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/gamma/f52fd4d1-f051-4438-a76b-cd0b35db2f0c | Gamma | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/vanta/27ea2eb4-f17c-49bf-a9c9-29a60e1f5e13 | Vanta | Technical Support Engineer - EMEA
+- [ ] https://jobs.ashbyhq.com/jamssoftware/7e60ef00-4c6b-47f5-b893-90d081b9f1f7 | JAMS Software | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/e4315cde-bab6-4075-bc3a-303425053669 | Jobgether | Application Support Engineer
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://jobs.lever.co/chooose/17a422d2-5cb5-4a8b-a464-c05dfcdb26d9 | Chooose | Senior Technical Implementation Manager / Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/5000e7b3-4ceb-490e-90a8-15fa939743e6 | Jobgether | Technical Account Manager
+- [ ] https://jobs.lever.co/yuno/f2bcc5d7-072d-4825-808f-cfd0af5a831a | Yuno | Technical Account Manager
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8654230002 | GitLab | Support Engineer (AMER)
+- [ ] https://boards.greenhouse.io/gitlab/jobs/5253208002 | GitLab | Support Engineer (AMER)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8684078002 | GitLab | Intermediate Support Engineer (SHIFT)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8645825002 | GitLab | Senior Assigned Support Engineer (EMEA)
+- [ ] https://job-boards.greenhouse.io/okta/jobs/7436488 | Okta | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7940707002 | Airtable | Manager, Technical Support
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8306093002 | Airtable | Technical Support Specialist - East Coast
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7940711002 | Airtable | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8085171002 | Airtable | Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5802956004 | Figma | Support Engineer, AI Infrastructure
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7341899 | Cloudflare | Senior Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7095103 | Cloudflare | Solutions Engineer, SLED
