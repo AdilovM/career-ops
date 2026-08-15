@@ -363,3 +363,16 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://boards.greenhouse.io/datadog/jobs/6394080 | Datadog | Technical Support Engineer 1 - Boston
+- [ ] https://boards.greenhouse.io/datadog/jobs/6368888 | Datadog | Technical Support Engineer 2 - Denver
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7242551 | Cloudflare | Solutions Engineer
+- [ ] https://boards.greenhouse.io/gitlab/jobs/6831303002 | GitLab | Support Engineer (US Federal)
+- [ ] https://job-boards.greenhouse.io/figma/jobs/6019398004 | Figma | Product Support Specialist
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5985033004 | Figma | Enterprise Support Specialist
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5971689004 | Figma | Technical Support Specialist - Figma Weave (Tel Aviv, Israel)
+- [ ] https://jobs.ashbyhq.com/confluent/53cbcea6-8b8f-406d-861a-b9960c26bf6c | Confluent | Technical Support Engineer - Flink (Remote, West)
+- [ ] https://jobs.ashbyhq.com/vanta/f98ff59f-8732-48a6-a60c-3367a0f288e5 | Vanta | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/vanta/91287192-6cea-41e6-a32d-ca7e37b5c298 | Vanta | Technical Support Engineer - NAMER
+- [ ] https://jobs.lever.co/jobgether/e4315cde-bab6-4075-bc3a-303425053669 | Jobgether | Application Support Engineer
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
