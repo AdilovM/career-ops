@@ -363,3 +363,15 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://boards.greenhouse.io/narvar/jobs/3531626 | Narvar | Technical Support Engineer (Remote) - Canada/US
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer - Platform Support
+- [ ] https://job-boards.greenhouse.io/perfectserve/jobs/5984654004 | PerfectServe | Technical Support Specialist - US Remote
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/8108960 | Greenhouse | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/figma/jobs/5802956004 | Figma | Support Engineer, AI Infrastructure
+- [ ] https://jobs.ashbyhq.com/clickup/7dd8ee42-c5cb-4569-8f91-f488cf9d404c | ClickUp | Escalations Engineer
+- [ ] https://jobs.ashbyhq.com/livekit/faea252e-3137-4de9-965e-33a4ccef2088 | LiveKit | IT Support Specialist
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://jobs.lever.co/weloglobal/0272daa4-b5cc-4df7-8aef-330e1f8b7660 | Welo Global | IT Support Engineer
+- [ ] https://jobs.lever.co/tonkean/2ce218e7-5c24-4933-867e-65e1502563db | Tonkean | Senior Implementation Engineer
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5440380004 | Grafana Labs | Manager, Technical Support (Remote, USA)
