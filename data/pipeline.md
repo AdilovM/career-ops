@@ -363,3 +363,9 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/horizon3ai/efb7a52e-2884-43f6-ad7e-a03b5998aa19 | Horizon3 AI | Staff Technical Support Engineer (Web App)
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8119733 | Pure Storage | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/24f437d2-3221-406e-928b-57fd84a81276 | Jobgether | IT Support Engineer L2
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
