@@ -363,3 +363,46 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer - Platform Support
+- [ ] https://job-boards.greenhouse.io/10beauty/jobs/5216061007 | 10Beauty | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/launchdarkly/jobs/7536747003 | LaunchDarkly | Technical Support Engineer - West Coast
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8112694 | Samsara | Technical Support Engineer I - Mexico - Remote
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5195925007 | Zscaler | Escalation Engineer - Cloud
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5123489007 | Zscaler | Staff Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5102802007 | Zscaler | Escalation Engineer - SDWAN
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8119733 | Pure Storage | Escalation Engineer (Portworx)
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5102817007 | Zscaler | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/5700304004 | Alpaca | Senior Escalation Engineering
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/5102811007 | Zscaler | Escalation Engineer - DLP
+- [ ] https://job-boards.greenhouse.io/jumio/jobs/4687400005 | Jumio | Customer Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/remotecom/jobs/6659921003 | Remote.com | Senior Partner Solutions Architect
+- [ ] https://job-boards.greenhouse.io/vonage/jobs/8052658002 | Vonage | Solutions Architect (UC/CC/AI)
+- [ ] https://job-boards.greenhouse.io/cyware/jobs/4175262003 | Cyware | Solutions Architect (Remote)
+- [ ] https://job-boards.greenhouse.io/appomni/jobs/5686199004 | AppOmni | Solutions Architect (Remote)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5453098004 | Grafana Labs | Solutions Architect (Remote, USA)
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/5719392004 | Grafana Labs | Solutions Architect - EST USA - Remote
+- [ ] https://job-boards.greenhouse.io/trace3/jobs/6163178 | Trace3 | Solutions Architect - AI (Remote)
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/axon/jobs/6592819003 | Axon | Implementation Engineer II, Fusus
+- [ ] https://jobs.ashbyhq.com/confluent/53cbcea6-8b8f-406d-861a-b9960c26bf6c | Confluent | Technical Support Engineer - Flink (Remote, West)
+- [ ] https://jobs.ashbyhq.com/runpod/34c71a63-4182-4128-83c2-44a2b0805915 | Runpod | Technical Support Engineer (L2)
+- [ ] https://jobs.ashbyhq.com/horizon3ai/efb7a52e-2884-43f6-ad7e-a03b5998aa19 | Horizon3 AI | Staff Technical Support Engineer (Web App)
+- [ ] https://jobs.ashbyhq.com/vanta/91287192-6cea-41e6-a32d-ca7e37b5c298 | Vanta | Technical Support Engineer - NAMER
+- [ ] https://jobs.ashbyhq.com/resend/01e6eb42-142b-4f33-9944-ca153bd3ae86 | Resend | Customer Success Engineer
+- [ ] https://jobs.ashbyhq.com/rescale/f520b63c-fc7d-4667-85bb-bd7b591a4eab | Rescale | Customer Success Engineer - Remote in the US
+- [ ] https://jobs.ashbyhq.com/resend/0b2481c7-da8b-4581-b5de-5216fb985cd5 | Resend | Customer Success Engineer (Shifted Week: Tuesday - Saturday)
+- [ ] https://jobs.ashbyhq.com/retell-ai/6ae071ab-8b07-4e8f-871a-04df97484f67 | Retell AI | Customer Success Engineer (Contract)
+- [ ] https://jobs.ashbyhq.com/rasa/fcacf658-f150-41cb-83e3-c39b3432e5f4 | Rasa | Senior Customer Success Engineer
+- [ ] https://jobs.ashbyhq.com/lavendo/f77d9452-701b-4e89-825c-d11336b77dab | Lavendo | Senior Solutions Engineer - Digital Native/Mid-Market (Remote US)
+- [ ] https://jobs.lever.co/jobgether/dee68536-5f80-460c-96e6-e57b2c0cad05 | Jobgether | Technical Customer Support Engineer
+- [ ] https://jobs.lever.co/passport/576e9cb1-c4c4-41d7-ba83-a6630c2212bf | Passport | Technical Support Engineer
+- [ ] https://jobs.lever.co/pelmorex/5622c1ae-57da-4ecd-97f6-615fc3b1a247 | Pelmorex | Solutions Engineer, Pelmorex Weather Source - Remote
+- [ ] https://jobs.lever.co/jobgether/5fd57343-a31e-4adb-a2c0-b19f133561ac | Jobgether | Customer Success Engineer (Remote from US)
+- [ ] https://jobs.lever.co/jobgether/e6945cf4-07d8-4636-8556-ee4c304e2e4e | Jobgether | Consultant, Implementation Engineer
+- [ ] https://jobs.lever.co/ethena/baa82e3e-a9f2-4eaf-a9d9-a874c0875750 | Ethena | Customer Success Engineer
+- [ ] https://jobs.lever.co/quantummetric/d41f1db2-8efc-4d31-af3d-e4d34d4c7bb9 | Quantum Metric | Customer Success Engineer - UK
+- [ ] https://apply.workable.com/supportyourapp/j/403982FF31 | SupportYourApp | Technical Support Engineer (fluent English, remote)
+- [ ] https://apply.workable.com/fusiontek/j/DE7780E709 | FusionTek | Remote Technical Support Engineer II
+- [ ] https://job-boards.greenhouse.io/offshorelaunch/jobs/5232890008 | Offshore Launch | Support Engineer (L2) - Developer Track
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4928791101 | Unframe | Support Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8016952 | Samsara | Product Support Engineer - Remote - US
