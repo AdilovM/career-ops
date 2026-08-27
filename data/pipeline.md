@@ -363,3 +363,26 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/prismatic/jobs/5218487007 | Prismatic | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/10beauty/jobs/5216061007 | 10Beauty | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8119733 | Everpure | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8654230002 | GitLab | Support Engineer (AMER)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8645825002 | GitLab | Senior Assigned Support Engineer (EMEA)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8324426002 | GitLab | Associate Support Engineer (EMEA)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8684078002 | GitLab | Intermediate Support Engineer (SHIFT)
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer - Platform Support
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8006811 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://jobs.ashbyhq.com/vanta/f98ff59f-8732-48a6-a60c-3367a0f288e5 | Vanta | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/horizon3ai/efb7a52e-2884-43f6-ad7e-a03b5998aa19 | Horizon3 AI | Staff Technical Support Engineer (Web App)
+- [ ] https://jobs.lever.co/jobgether/e2a9191c-535c-46ad-9c42-a65187c4817a | Jobgether | Technical Support Engineer (EMEA)
+- [ ] https://jobs.lever.co/dijital-team-pty-ltd/c30d91c9-4bbc-48b3-b975-5b3185159818 | Dijital Team | Support Engineer - L2 (Systems, Networking & Security)
+- [ ] https://jobs.lever.co/jobgether/24f437d2-3221-406e-928b-57fd84a81276 | Jobgether | IT Support Engineer L2
+- [ ] https://jobs.lever.co/smiledigitalhealth/5e60bd9b-8996-4920-b78b-bc6d3aa1068c | Smile Digital Health | Senior Application Support Engineer (Remote Ontario)
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/4fbc0fed-bea5-4eca-8cac-95f1ee14fba7 | Jobgether | Customer Success Engineer - REMOTE
+- [ ] https://jobs.lever.co/ethena/baa82e3e-a9f2-4eaf-a9d9-a874c0875750 | Ethena | Customer Success Engineer
+- [ ] https://jobs.lever.co/jobgether/e6945cf4-07d8-4636-8556-ee4c304e2e4e | Jobgether | Consultant, Implementation Engineer
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
