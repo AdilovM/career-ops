@@ -363,3 +363,23 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/pingidentity/jobs/8743157002 | Ping Identity | Senior Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer - Platform Support
+- [ ] https://boards.greenhouse.io/narvar/jobs/3531626 | Narvar | Technical Support Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/10beauty/jobs/5216061007 | 10Beauty | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8415074002 | GitLab | Customer Success Engineer - APJ
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/postscript/jobs/8733945002 | Postscript | Solutions Engineer
+- [ ] https://job-boards.greenhouse.io/embrace/jobs/5743949004 | Embrace | Solutions Engineer - US Remote
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5699984004 | Hightouch | Customer Success Engineer
+- [ ] https://job-boards.greenhouse.io/hightouch/jobs/5381511004 | Hightouch | Customer Success Engineer (2)
+- [ ] https://job-boards.greenhouse.io/algolia/jobs/5834932004 | Algolia | Customer Success Engineer
+- [ ] https://job-boards.greenhouse.io/abnormalsecurity/jobs/7867456003 | Abnormal AI | Customer Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/element451/ddba20da-5b3a-4dcb-b01a-df916ab8b911 | Element451 | Customer Success Engineer
+- [ ] https://jobs.lever.co/pointclickcare/d3c03840-66fc-4749-ac4f-ec77c8a82ac4 | PointClickCare | Escalation Manager (Customer Support)
+- [ ] https://jobs.lever.co/jobgether/e2a9191c-535c-46ad-9c42-a65187c4817a | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/24f437d2-3221-406e-928b-57fd84a81276 | Jobgether | IT Support Engineer L2
+- [ ] https://jobs.lever.co/smiledigitalhealth/5e60bd9b-8996-4920-b78b-bc6d3aa1068c | Smile Digital Health | Senior Application Support Engineer (Remote Ontario)
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
