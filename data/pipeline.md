@@ -363,3 +363,39 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/vanta/bdebe333-85f3-45c6-99fc-cc356e2ebfbb/application | Vanta | Technical Support Specialist - West Coast
+- [ ] https://jobs.ashbyhq.com/nestmed/1a3eee98-4ec3-47b1-8ee6-8123e831ed99 | Nestmed | Technical Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/everis/b283a107-be18-4219-a0b9-cf93933be92f | Everis | QA Engineer, Product & Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/kota/fc71c85e-4292-4ab1-be2f-2d0ac046568f | Kota | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/n8n/96d809df-d383-417b-8906-37c6028304f2 | n8n | Senior Support Engineer | Remote | US
+- [ ] https://jobs.ashbyhq.com/n8n/90a1634b-81a8-4aa6-957d-951c1f142555 | n8n | Support Engineer | L1 Support
+- [ ] https://jobs.ashbyhq.com/polymarket/d03ffef0-b8c6-4cf5-9e4a-cd73606be805 | Polymarket | Escalation Engineer, CX
+- [ ] https://jobs.ashbyhq.com/TensorWave/8acd26a4-9df8-48fa-b767-dbf57d6bd0ba | TensorWave | Senior Solutions Engineer
+- [ ] https://jobs.ashbyhq.com/inngest/3b9163fe-e0e4-426b-94e7-0f0d42f634c7 | Inngest | Support Escalations Engineer
+- [ ] https://jobs.ashbyhq.com/illumio/e790f10e-27c5-4992-a3e8-3bb7c25ae79a | Illumio | Escalation Engineer
+- [ ] https://jobs.ashbyhq.com/instructure/c7f174bd-9e69-4cb8-b7fd-45cde88d238c | Instructure | L1 Support Engineer
+- [ ] https://jobs.ashbyhq.com/aiwyn/5d47bfa4-3a15-4b81-9df8-c0cec9d73da8 | Aiwyn | Customer Escalation Manager
+- [ ] https://jobs.ashbyhq.com/vapi/f07ff2a1-8b8a-4769-ab0d-dea7cc7ad3a7 | Vapi | Incident and Escalation Manager
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/pingidentity/jobs/8743157002 | Ping Identity | Senior Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/10beauty/jobs/5216061007 | 10Beauty | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/e2a9191c-535c-46ad-9c42-a65187c4817a | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/2aa35172-0593-4114-a3cb-551835208fd5 | Jobgether | Security Technical Support Engineer
+- [ ] https://jobs.lever.co/pointclickcare/d3c03840-66fc-4749-ac4f-ec77c8a82ac4 | PointClickCare | Escalation Manager (Customer Support)
+- [ ] https://jobs.lever.co/jobgether/24f437d2-3221-406e-928b-57fd84a81276 | Jobgether | IT Support Engineer L2
+- [ ] https://jobs.lever.co/smiledigitalhealth/5e60bd9b-8996-4920-b78b-bc6d3aa1068c | Smile Digital Health | Senior Application Support Engineer (Remote Ontario)
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/4238b24f-f795-4fb8-ab21-ebd377ce9e12 | Jobgether | Sr. Technical Support Engineer
+- [ ] https://wellfound.com/jobs/3991955-technical-support-engineer | Dataiku | Technical Support Engineer
+- [ ] https://wellfound.com/jobs/2908481-support-engineer | PostHog | Support Engineer
+- [ ] https://wellfound.com/jobs/439105-technical-support-engineer-saas | Swym | Technical Support Engineer (SaaS)
+- [ ] https://apply.workable.com/hirevue/j/DDF0D6B7A1 | HireVue | Technical Support Specialist
+- [ ] https://apply.workable.com/earthcam/j/C24F6F12F4 | EarthCam | Technical Support Specialist Tier 2
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
+- [ ] https://apply.workable.com/remote-recruitment/j/79CD4D8DE2 | Remote Recruitment | Technical Support Specialist - Wireless ISP
+- [ ] https://apply.workable.com/supportyourapp/j/1AAAD4D02B | SupportYourApp | Technical SaaS Support Specialist
+- [ ] https://apply.workable.com/interlaced/j/53EA241215/ | Interlaced | IT Support Technician III
+- [ ] https://apply.workable.com/pacific-health-group/j/E4348B5900 | Pacific Health Group | Level 2 IT Help Desk Technician
+- [ ] https://apply.workable.com/orderdesk/j/683D77D121/ | Order Desk | Technical Support Specialist
