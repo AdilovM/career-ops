@@ -363,3 +363,21 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/factory/4fee6050-ebaa-45cb-a777-a9c2f1bf8d02 | Factory | Technical Support Engineer - Remote EMEA
+- [ ] https://jobs.ashbyhq.com/1password/977a7202-3aef-4ccb-a493-6042c6327f2c | 1Password | Senior IT Support Engineer
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8006811 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://job-boards.greenhouse.io/iterable/jobs/8165080 | Iterable | Technical Support Engineer - Deliverability
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://jobs.lever.co/trueml/348bcc54-e965-4dae-bfd3-46053ca29e18 | TrueML | Technical Support Engineer I
+- [ ] https://jobs.lever.co/outreach/3c6ba2dd-37ce-48ba-a01a-a890b6271c63 | Outreach | Staff Technical Escalations Manager
+- [ ] https://jobs.lever.co/jobgether/9b045c55-b2c2-4018-9ce0-0e3ee45839b9 | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/pointclickcare/d3c03840-66fc-4749-ac4f-ec77c8a82ac4 | PointClickCare | Escalation Manager (Customer Support)
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://jobs.lever.co/jumpcloud/72907d16-2d4b-4daa-a8db-77439ec7fb92 | JumpCloud | Customer Support Engineer, Tier 1 - Mexico
+- [ ] https://jobs.lever.co/smiledigitalhealth/5e60bd9b-8996-4920-b78b-bc6d3aa1068c | Smile Digital Health | Senior Application Support Engineer (Remote Ontario)
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/7997872 | Datadog | Technical Support Engineer 2, Premier - Denver
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8709925002 | GitLab | Senior Assigned Support Engineer (AMER)
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8645825002 | GitLab | Senior Assigned Support Engineer (EMEA)
