@@ -382,3 +382,37 @@
 - [ ] https://apply.workable.com/extremereach/j/E9331A9D25 | XR Extreme Reach | Senior Technical Support Specialist
 - [ ] https://apply.workable.com/hospitable/j/BE9898AAF6 | Hospitable | Technical Support Engineer Americas EMEA Remote
 - [ ] https://apply.workable.com/supportyourapp/j/2AB17F8EE5 | SupportYourApp | Cloud Support Engineer Remotely
+- [ ] https://jobs.ashbyhq.com/factory/4fee6050-ebaa-45cb-a777-a9c2f1bf8d02 | Factory | Technical Support Engineer - Remote EMEA
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/stninc/eed63270-bcbb-445d-a4a4-f17b8cb467fe | STN Inc | Customer Support Engineer (Tier 1 / Tier 2)
+- [ ] https://jobs.ashbyhq.com/1password/977a7202-3aef-4ccb-a493-6042c6327f2c | 1Password | Senior IT Support Engineer
+- [ ] https://jobs.ashbyhq.com/Moxie/97b464c8-bdf0-4ea0-a30e-6a6fcf2dd326 | Moxie | IT Support Specialist (IC3)
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8006811 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4969673101 | Unframe | Support Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/iterable/jobs/8165080 | Iterable | Technical Support Engineer - Deliverability
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://jobs.lever.co/trueml/348bcc54-e965-4dae-bfd3-46053ca29e18 | TrueML | Technical Support Engineer I
+- [ ] https://jobs.lever.co/jobgether/0a96a0dd-8e1e-4403-bfe5-72c97096b057 | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/4d4053b0-dd14-4937-98b0-c2b9ce9879a3 | Jobgether | Customer Support Engineer, Tier 2
+- [ ] https://jobs.lever.co/pointclickcare/d3c03840-66fc-4749-ac4f-ec77c8a82ac4 | PointClickCare | US- Escalation Manager (Customer Support)
+- [ ] https://jobs.lever.co/jumpcloud/efaa2e45-a66c-4991-93e0-84aae64cf94d | JumpCloud | Customer Support Engineer, Tier 2 - India
+- [ ] https://jobs.lever.co/smiledigitalhealth/5e60bd9b-8996-4920-b78b-bc6d3aa1068c | Smile Digital Health | Senior Application Support Engineer (Remote Ontario)
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://jobs.lever.co/conversica/13399ea3-8812-4e61-b382-5545bfc950da | Conversica | Senior Technical Support Specialist
+- [ ] https://jobs.lever.co/trueml/0050bdb6-9a6a-426c-b5e1-84901a9d2488 | TrueML | Technical Support Engineer II
+- [ ] https://jobs.lever.co/firstup/885a041b-6ce0-446c-bf5f-6d136bd54be5 | Firstup | Technical Support Engineer
+- [ ] https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f | Welo Global | IT Support Engineer
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/docker/7eb2fabc-f792-4e92-bd5f-50a646732163 | Docker | Senior Implementation Engineer (EMEA)
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/Moxie/97b464c8-bdf0-4ea0-a30e-6a6fcf2dd326 | Moxie | IT Support Specialist (IC3)
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4969673101 | Unframe | Support Engineer (Remote)
+- [ ] https://jobs.lever.co/conversica/13399ea3-8812-4e61-b382-5545bfc950da | Conversica | Senior Technical Support Specialist
+- [ ] https://jobs.lever.co/trueml/0050bdb6-9a6a-426c-b5e1-84901a9d2488 | TrueML | Technical Support Engineer II
+- [ ] https://jobs.lever.co/firstup/885a041b-6ce0-446c-bf5f-6d136bd54be5 | Firstup | Technical Support Engineer
+- [ ] https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f | Welo Global | IT Support Engineer
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35 | Pavago | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/docker/7eb2fabc-f792-4e92-bd5f-50a646732163 | Docker | Senior Implementation Engineer (EMEA)
