@@ -363,3 +363,21 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://boards.greenhouse.io/zscaler/jobs/4371776007 | Zscaler | Escalation Engineer (Cloud Security)
+- [ ] https://jobs.ashbyhq.com/factory/4fee6050-ebaa-45cb-a777-a9c2f1bf8d02 | Factory | Technical Support Engineer - Remote EMEA
+- [ ] https://jobs.lever.co/jumpcloud/72907d16-2d4b-4daa-a8db-77439ec7fb92 | JumpCloud | Customer Support Engineer Tier 1 (Mexico)
+- [ ] https://job-boards.greenhouse.io/iterable/jobs/8165080 | Iterable | Technical Support Engineer - Deliverability
+- [ ] https://jobs.lever.co/trueml/348bcc54-e965-4dae-bfd3-46053ca29e18 | TrueML | Technical Support Engineer I
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/stninc/eed63270-bcbb-445d-a4a4-f17b8cb467fe | STN Inc | Customer Support Engineer (Tier 1/Tier 2)
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor Global | Consultant, Implementation Engineer
+- [ ] https://jobs.lever.co/smiledigitalhealth/5e60bd9b-8996-4920-b78b-bc6d3aa1068c | Smile Digital Health | Senior Application Support Engineer
+- [ ] https://jobs.lever.co/jobgether/4d4053b0-dd14-4937-98b0-c2b9ce9879a3 | Jobgether | Customer Support Engineer, Tier 2
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4969673101 | Unframe | Support Engineer
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
+- [ ] https://jobs.lever.co/jobgether/e2a9191c-535c-46ad-9c42-a65187c4817a | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jumpcloud/efaa2e45-a66c-4991-93e0-84aae64cf94d | JumpCloud | Customer Support Engineer, Tier 2 (India)
