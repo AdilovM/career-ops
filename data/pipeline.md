@@ -363,3 +363,13 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/factory/4fee6050-ebaa-45cb-a777-a9c2f1bf8d02 | Factory | Technical Support Engineer - Remote EMEA
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/stninc/eed63270-bcbb-445d-a4a4-f17b8cb467fe | STN Inc | Customer Support Engineer (Tier 1/Tier 2)
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/iterable/jobs/8165080 | Iterable | Technical Support Engineer - Deliverability
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
+- [ ] https://apply.workable.com/neowork/j/1D176D7E21 | NeoWork | Tech Support Specialist
