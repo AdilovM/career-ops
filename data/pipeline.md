@@ -363,3 +363,22 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/factory/4fee6050-ebaa-45cb-a777-a9c2f1bf8d02 | Factory | Technical Support Engineer - Remote EMEA
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/1password/977a7202-3aef-4ccb-a493-6042c6327f2c | 1Password | Senior IT Support Engineer
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/clickup/7dd8ee42-c5cb-4569-8f91-f488cf9d404c | ClickUp | Escalations Engineer
+- [ ] https://job-boards.greenhouse.io/iterable/jobs/8165080 | Iterable | Technical Support Engineer - Deliverability
+- [ ] https://job-boards.greenhouse.io/pingidentity/jobs/8743157002 | Ping Identity | Senior Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/everway/jobs/4710043006 | Everway | Technical Support Engineer (6 month FTC)
+- [ ] https://boards.greenhouse.io/wizinc/jobs/4683509006 | Wiz | Solutions Support Engineer
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/forter/jobs/8736598002 | Forter | Implementation Engineer
+- [ ] https://jobs.lever.co/trueml/348bcc54-e965-4dae-bfd3-46053ca29e18 | TrueML | Technical Support Engineer I
+- [ ] https://jobs.lever.co/jobgether/0a96a0dd-8e1e-4403-bfe5-72c97096b057 | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/4d4053b0-dd14-4937-98b0-c2b9ce9879a3 | Jobgether | Customer Support Engineer, Tier 2
+- [ ] https://jobs.lever.co/trueml/0050bdb6-9a6a-426c-b5e1-84901a9d2488 | TrueML | Technical Support Engineer II
+- [ ] https://jobs.lever.co/jobgether/24f437d2-3221-406e-928b-57fd84a81276 | Jobgether | IT Support Engineer L2
+- [ ] https://jobs.lever.co/weloglobal/952e6188-856a-490a-bf4d-d7e2b0ff484f | Welo Global | IT Support Engineer
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
+- [ ] https://builtin.com/job/technical-support-escalations-specialist/3521589 | Built In | Technical Support Escalations Specialist
