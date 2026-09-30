@@ -363,3 +363,27 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/sciencelogic/jobs/6777552 | ScienceLogic | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/6696125 | Pure Storage | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/axuall/jobs/4562891005 | Axuall | Support Engineer
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7763582 | Greenhouse | Senior Support Engineer
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/6850215 | Greenhouse | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | Motive | Integration Engineer (Implementations)
+- [ ] https://job-boards.greenhouse.io/trackvia/jobs/6521382003 | TrackVia | Implementation Engineer
+- [ ] https://boards.greenhouse.io/protonai/jobs/5063748004 | Proton AI | Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/protonai/jobs/5407927004 | Proton AI | Integrations Engineer
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/1bd1a99c-3548-4bbb-a8c1-1fecd8df7eaa | Jobgether | Manager, Technical Support
+- [ ] https://jobs.lever.co/jobgether/2f6a6865-da99-42a2-ab7c-362aaa795d91 | Jobgether | Lead Product Support Engineer
+- [ ] https://jobs.ashbyhq.com/ashby/2d03f0fe-2f3c-4c8e-9b89-7c6a35f9e7a4 | Ashby | Product Support Engineer - EMEA
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/centralize/4d255888-ae88-43b8-ae69-ddac411e86cb | Centralize | Product Support Engineer
+- [ ] https://jobs.ashbyhq.com/ashby/80c20b00-c3c3-441b-95bd-56eb870e77fb | Ashby | Product Support Engineer - Americas
+- [ ] https://jobs.ashbyhq.com/singular/594dbb80-f109-4558-8e19-13b791284add | Singular | Product Support Engineer
+- [ ] https://jobs.ashbyhq.com/Nautilus%20Biotechnology/5622ae16-63b6-4d5f-81a5-9f935b150662 | Nautilus Biotechnology | Senior Product Support Engineer
+- [ ] https://jobs.ashbyhq.com/1password/977a7202-3aef-4ccb-a493-6042c6327f2c | 1Password | Senior IT Support Engineer
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/blackpoint%20cyber/e39fb306-51ca-4a7a-af05-a2d912f96d10 | Blackpoint Cyber | Support Engineer III
+- [ ] https://jobs.ashbyhq.com/vultr/381877c5-d048-4e7d-b6aa-88cf12fe1179 | Vultr | Senior Technical Support Engineer
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
