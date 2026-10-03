@@ -363,3 +363,36 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/leandata/03fa3346-720b-4671-9c5f-32b7e36ac753 | LeanData | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/C1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/1password/977a7202-3aef-4ccb-a493-6042c6327f2c | 1Password | Senior IT Support Engineer
+- [ ] https://jobs.ashbyhq.com/clickup/7dd8ee42-c5cb-4569-8f91-f488cf9d404c | ClickUp | Escalations Engineer
+- [ ] https://jobs.ashbyhq.com/chartahealth/92849d59-cbcc-4d37-b9a8-18f1fb374f58 | Charta Health | Customer Engineer
+- [ ] https://jobs.ashbyhq.com/element451/ddba20da-5b3a-4dcb-b01a-df916ab8b911 | Element451 | Customer Success Engineer
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer - Platform Support
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8006811 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://boards.greenhouse.io/narvar/jobs/3531626 | Narvar | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/everway/jobs/4710043006 | Everway | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/nametag/jobs/4417582009 | Nametag | Technical Customer Engineer
+- [ ] https://job-boards.greenhouse.io/perfectserve/jobs/6196317004 | PerfectServe | Technical Support Specialist - Tier 1
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/datagrail/jobs/7722435003 | DataGrail | Implementation Engineer, Consent
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/smarterdx/jobs/4954467007 | SmarterDx | Integration Engineer
+- [ ] https://job-boards.greenhouse.io/air/jobs/4056465009 | Air | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/boldbusiness/jobs/4184084009 | Bold Business | Lead Network Implementation Engineer
+- [ ] https://boards.greenhouse.io/checkr/jobs/4716757 | Checkr | Senior Integration Engineer
+- [ ] https://jobs.lever.co/trueml/0050bdb6-9a6a-426c-b5e1-84901a9d2488 | TrueML | Technical Support Engineer II
+- [ ] https://jobs.lever.co/jumpcloud/efaa2e45-a66c-4991-93e0-84aae64cf94d | JumpCloud | Customer Support Engineer, Tier 2
+- [ ] https://jobs.lever.co/trueml/348bcc54-e965-4dae-bfd3-46053ca29e18 | TrueML | Technical Support Engineer I
+- [ ] https://jobs.lever.co/dijital-team-pty-ltd/c30d91c9-4bbc-48b3-b975-5b3185159818 | Dijital Team | Support Engineer
+- [ ] https://jobs.lever.co/jobgether/24f437d2-3221-406e-928b-57fd84a81276 | Jobgether | IT Support Engineer L2
+- [ ] https://jobs.lever.co/kinsta/e5ca674e-0121-4de0-ab52-48e36de7faa5 | Kinsta | Support Engineer
+- [ ] https://jobs.lever.co/jobgether/0a96a0dd-8e1e-4403-bfe5-72c97096b057 | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/4d4053b0-dd14-4937-98b0-c2b9ce9879a3 | Jobgether | Customer Support Engineer, Tier 2
+- [ ] https://jobs.lever.co/jumpcloud/72907d16-2d4b-4daa-a8db-77439ec7fb92 | JumpCloud | Customer Support Engineer, Tier 1
+- [ ] https://apply.workable.com/mindex/j/CE7AFF2FDE | Mindex | Product Support Specialist
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist
+- [ ] https://apply.workable.com/valsoft-corp/j/562CA9F683 | Valsoft Corporation | Technical Support Agent
+- [ ] https://apply.workable.com/remote-va/j/E84A8CB85E | Remote VA | IT Support Specialist
