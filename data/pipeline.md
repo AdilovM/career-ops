@@ -363,3 +363,26 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/vanta/f98ff59f-8732-48a6-a60c-3367a0f288e5 | Vanta | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/leandata/03fa3346-720b-4671-9c5f-32b7e36ac753 | LeanData | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/jamssoftware/7e60ef00-4c6b-47f5-b893-90d081b9f1f7 | JAMS Software | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/filescom/jobs/4595389005 | Files.com | Customer Support Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/6696125 | Pure Storage | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/axuall/jobs/4562891005 | Axuall | Support Engineer
+- [ ] https://job-boards.greenhouse.io/impact/jobs/7866514002 | impact.com | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | Motive | Integration Engineer (Implementations)
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US Remote)
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8006811 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://job-boards.greenhouse.io/everway/jobs/4710043006 | Everway | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8016952 | Samsara | Product Support Engineer (Remote US)
+- [ ] https://job-boards.greenhouse.io/lunarenergy/jobs/5684524004 | Lunar Energy | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7631833003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/62d29ab1-993b-4382-9b4f-e5bd4475920c | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://jobs.lever.co/miteksystems-2/72a8ad68-1289-41a6-8137-a4171dba2ee4 | Mitek Systems | Principal Technical Support Engineer
+- [ ] https://jobs.lever.co/conversica/ac8c52c6-fea9-4771-8ab4-d63b7d781178 | Conversica | Technical Support Specialist
+- [ ] https://jobs.lever.co/firstup/885a041b-6ce0-446c-bf5f-6d136bd54be5 | Firstup | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/9b045c55-b2c2-4018-9ce0-0e3ee45839b9 | Jobgether | Technical Support Engineer (Germany)
