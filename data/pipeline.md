@@ -363,3 +363,20 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/withclutch/775a9235-cef6-4009-aba5-879258cc0806 | Clutch | Senior Support Engineer
+- [ ] https://jobs.ashbyhq.com/odyssey/3c45e708-3b5c-47ae-962c-266ff590f0fb | Odyssey | Support Specialist (US-Remote)
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/HighlightTA/432f529f-5755-4aba-a385-1939154cb77a | HighlightTA | IT Support Specialist
+- [ ] https://jobs.ashbyhq.com/1password/977a7202-3aef-4ccb-a493-6042c6327f2c | 1Password | Senior IT Support Engineer
+- [ ] https://jobs.ashbyhq.com/lumana/542ba976-ed22-43db-af2a-471670389b68 | Lumana | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/filescom/jobs/4595389005 | Files.com | Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/6696125 | Pure Storage | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/axuall/jobs/4562891005 | Axuall | Support Engineer
+- [ ] https://job-boards.greenhouse.io/impact/jobs/7866514002 | impact.com | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/trackvia/jobs/6521382003 | TrackVia | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/6850215 | Greenhouse | Senior Support Engineer
+- [ ] https://job-boards.greenhouse.io/techholding/jobs/4615300005 | Tech Holding | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | Motive | Integration Engineer (Implementations)
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
