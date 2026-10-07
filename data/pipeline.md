@@ -363,3 +363,13 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/62d29ab1-993b-4382-9b4f-e5bd4475920c | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/1bd1a99c-3548-4bbb-a8c1-1fecd8df7eaa | Jobgether | Manager, Technical Support
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://job-boards.greenhouse.io/sciencelogic/jobs/6777552 | ScienceLogic | Sr. Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/axuall/jobs/4562891005 | Axuall | Support Engineer
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7763582 | Greenhouse | Senior Support Engineer
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | Motive | Integration Engineer
+- [ ] https://hcltech.com/careers/guatemala/job-openings/remote-escalations-support-engineer | HCL Tech | Remote Escalations Support Engineer
