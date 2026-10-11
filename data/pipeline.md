@@ -363,3 +363,35 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/62d29ab1-993b-4382-9b4f-e5bd4475920c | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://jobs.lever.co/jobgether/1bd1a99c-3548-4bbb-a8c1-1fecd8df7eaa | Jobgether | Manager, Technical Support
+- [ ] https://jobs.lever.co/jobgether/6068fb7d-6c4e-4af4-af42-d78fb8fa3d9a | Jobgether | Implementation Engineer, Customer Support
+- [ ] https://jobs.lever.co/jobgether/4d60847e-9f13-4efa-856b-77b5c444398d | Jobgether | Senior Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/56ee30cd-122a-4fc2-aed4-cdc6c83f6597 | Jobgether | Senior Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/1ec06b96-7bc3-4f34-b0bb-e093eb0ab94e | Jobgether | Senior Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/4d2d0a16-3fe8-4d08-90a2-e6546af95ead | Jobgether | Customer Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/af22a7d1-9af7-4eea-b44b-656790a5c866 | Jobgether | Senior Implementation Engineer
+- [ ] https://jobs.lever.co/SmartBugOperatingLLC/a02d1b70-67ee-4f73-9933-08fc21a35e99/apply | SmartBug | Customer Solutions Architect
+- [ ] https://jobs.lever.co/safetyculture-2/b4c5c1f4-1359-4d4e-afb4-8b4fe7eef81c | SafetyCulture | Customer Success Engineer
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/6696125 | Pure Storage | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/filescom/jobs/4595389005 | Files.com | Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8315675002 | GitLab | Support Engineer
+- [ ] https://job-boards.greenhouse.io/planetscale/jobs/4107018009 | PlanetScale | Enterprise Support Engineer
+- [ ] https://job-boards.greenhouse.io/protonai/jobs/5359977004 | Proton | Technical Support Analyst
+- [ ] https://job-boards.greenhouse.io/protonai/jobs/5407927004 | Proton | Integrations Engineer
+- [ ] https://job-boards.greenhouse.io/sciencelogic/jobs/6777552 | ScienceLogic | Sr. Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7763582 | Greenhouse | Senior Support Engineer
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | Motive | Integration Engineer (Implementations)
+- [ ] https://job-boards.greenhouse.io/axuall/jobs/4562891005 | Axuall | Support Engineer
+- [ ] https://job-boards.greenhouse.io/trackvia/jobs/6521382003 | TrackVia | Implementation Engineer
+- [ ] https://jobs.ashbyhq.com/vanta/f98ff59f-8732-48a6-a60c-3367a0f288e5 | Vanta | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/blackpoint%20cyber/e39fb306-51ca-4a7a-af05-a2d912f96d10 | Blackpoint Cyber | Support Engineer III
+- [ ] https://jobs.ashbyhq.com/corridor/ef8f72b0-20c6-49c8-a798-65ea6dcbf051 | Corridor | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/vultr/381877c5-d048-4e7d-b6aa-88cf12fe1179 | Vultr | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/jamssoftware/7e60ef00-4c6b-47f5-b893-90d081b9f1f7 | JAMS Software | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/ironcladhq/1f786a91-91d2-41a1-a50b-8e7f8251ceb8 | Ironclad | Technical Support Engineer
