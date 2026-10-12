@@ -363,3 +363,35 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/cloudflare/jobs/7228933 | Cloudflare | Escalation Engineer (CDN/Developer Platform)
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/6382064 | Cloudflare | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/8096181 | Datadog | Technical Support Engineer 2 (São Paulo, Premier)
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/8097533 | Datadog | Technical Support Engineer 3 (São Paulo, Premier)
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/7758574 | Datadog | Technical Support Engineer 3
+- [ ] https://job-boards.greenhouse.io/filescom/jobs/4595389005 | Files.com | Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/6696125 | Pure Storage | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/axuall/jobs/4562891005 | Axuall | Support Engineer
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | GoMotive | Integration Engineer
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8306093002 | Airtable | Technical Support Specialist (Enterprise)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8191401002 | Airtable | Developer Support Engineer
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5561231004 | PagerDuty | Technical Support Specialist II
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5610392004 | PagerDuty | Technical Support Specialist II (Santiago)
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5530605004 | PagerDuty | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5633124004 | Vercel | Technical Support Engineer (Marketplaces)
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer (Platform Support)
+- [ ] https://job-boards.greenhouse.io/volexity/jobs/4328838009 | Volexity | Support Engineer
+- [ ] https://job-boards.greenhouse.io/unframe/jobs/4928791101 | Unframe | Support Engineer
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/coretelligent/jobs/5448702008 | Coretelligent | Remote Support Engineer II
+- [ ] https://job-boards.greenhouse.io/transcendinc/jobs/4120430009 | Transcend | Support Engineer (CX)
+- [ ] https://job-boards.greenhouse.io/extrahopnetworks/jobs/6130325004 | ExtraHop | Support Engineer
+- [ ] https://job-boards.greenhouse.io/samsara/jobs/8112694 | Samsara | Technical Support Engineer I (Mexico)
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/62d29ab1-993b-4382-9b4f-e5bd4475920c | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://jobs.ashbyhq.com/leandata/03fa3346-720b-4671-9c5f-32b7e36ac753 | LeanData | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/vultr/381877c5-d048-4e7d-b6aa-88cf12fe1179 | Vultr | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/constructor/7a2dde00-a599-4e9e-aad3-2b0fedc6c9de | Constructor | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
