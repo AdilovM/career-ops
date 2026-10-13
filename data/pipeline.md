@@ -363,3 +363,16 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/62d29ab1-993b-4382-9b4f-e5bd4475920c | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://job-boards.greenhouse.io/sciencelogic/jobs/6777552 | ScienceLogic | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/axuall/jobs/4562891005 | Axuall | Support Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7763582 | Greenhouse | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/6850215 | Greenhouse | Senior Support Engineer
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | Motive | Integration Engineer
+- [ ] https://boards.greenhouse.io/branch/jobs/5890624003 | Branch | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/branch/jobs/6080188003 | Branch | Implementation Engineer
+- [ ] https://boards.greenhouse.io/protonai/jobs/5063748004 | Proton AI | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/protonai/jobs/5407927004 | Proton AI | Implementation Engineer
