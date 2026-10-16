@@ -363,3 +363,20 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/filescom/jobs/4595389005 | Files.com | Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/sciencelogic/jobs/6777552 | ScienceLogic | Sr. Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | Motive | Integration Engineer (Implementations)
+- [ ] https://job-boards.greenhouse.io/trackvia/jobs/6521382003 | TrackVia | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/impact/jobs/7866514002 | impact.com | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/thousandeyes/jobs/6882845 | Cisco ThousandEyes | Senior Escalations Support Engineer
+- [ ] https://job-boards.greenhouse.io/zscaler/jobs/4552947007 | Zscaler | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/62d29ab1-993b-4382-9b4f-e5bd4475920c | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://jobs.lever.co/levelai/73b4da6c-570a-4fa1-a4f2-de23978a5b6d | Level AI | Implementation Engineer (Remote, US)
+- [ ] https://jobs.lever.co/jobgether/6068fb7d-6c4e-4af4-af42-d78fb8fa3d9a | Jobgether | Implementation Engineer, Customer Support
+- [ ] https://jobs.lever.co/jobgether/21e15288-51ec-4bbf-80ec-5fec6b1f9472 | Jobgether | Senior Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/0f218352-e646-40bf-b3cd-65eb938af691 | Jobgether | Implementation Engineer, TPRM
+- [ ] https://jobs.lever.co/jobgether/1ec06b96-7bc3-4f34-b0bb-e093eb0ab94e | Jobgether | Senior Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/4d2d0a16-3fe8-4d08-90a2-e6546af95ead | Jobgether | Customer Implementation Engineer
