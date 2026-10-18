@@ -363,3 +363,18 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/C1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/leandata/03fa3346-720b-4671-9c5f-32b7e36ac753 | LeanData | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/roboflow/48f0f38f-b223-47fe-979d-4934c6371278 | Roboflow | Named Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/hinge-health/8f7523da-70da-4a70-b32d-6cb294785527 | Hinge Health | Associate Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/honeydew/ad31eca9-9031-4579-a7cb-032e4cbeb778 | Honeydew | Support Engineer
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer - Platform Support
+- [ ] https://job-boards.greenhouse.io/abnormalsecurity/jobs/7989495003 | Abnormal Security | L1 Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/filescom/jobs/4595389005 | Files.com | Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/6696125 | Pure Storage | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer (London/UK remote)
+- [ ] https://jobs.ashbyhq.com/blackpoint%20cyber/e39fb306-51ca-4a7a-af05-a2d912f96d10 | Blackpoint Cyber | Support Engineer III (Canada)
