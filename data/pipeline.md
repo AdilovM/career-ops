@@ -363,3 +363,20 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/vultr/381877c5-d048-4e7d-b6aa-88cf12fe1179 | Vultr | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/blackpoint%20cyber/e39fb306-51ca-4a7a-af05-a2d912f96d10 | Blackpoint Cyber | Support Engineer III
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/honeydew/ad31eca9-9031-4579-a7cb-032e4cbeb778 | Honeydew | Support Engineer
+- [ ] https://jobs.ashbyhq.com/constructor/7a2dde00-a599-4e9e-aad3-2b0fedc6c9de | Constructor | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/filescom/jobs/4595389005 | Files.com | Customer Support Engineer
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/6696125 | Pure Storage | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/axuall/jobs/4562891005 | Axuall | Support Engineer
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | Motive | Integration Engineer (Implementations)
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/62d29ab1-993b-4382-9b4f-e5bd4475920c | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://apply.workable.com/hireframe/j/44E2904D52 | Hireframe | Technical Support Specialist
+- [ ] https://apply.workable.com/supportyourapp/j/403982FF31 | SupportYourApp | Technical Support Engineer (fluent English)
+- [ ] https://apply.workable.com/supportyourapp/j/2AB17F8EE5 | SupportYourApp | Cloud Support Engineer
