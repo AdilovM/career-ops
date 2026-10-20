@@ -363,3 +363,23 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/blackpoint%20cyber/e39fb306-51ca-4a7a-af05-a2d912f96d10 | Blackpoint Cyber | Support Engineer III
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/constructor/7a2dde00-a599-4e9e-aad3-2b0fedc6c9de | Constructor | Technical Support Engineer (EMEA)
+- [ ] https://jobs.ashbyhq.com/hinge-health/8f7523da-70da-4a70-b32d-6cb294785527 | Hinge Health | Associate Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/1password/977a7202-3aef-4ccb-a493-6042c6327f2c | 1Password | Senior IT Support Engineer
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8006811 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer - Platform Support
+- [ ] https://job-boards.greenhouse.io/shipbobinc/jobs/4715408005 | ShipBob | Technical Support Engineer II
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | Motive | Integration Engineer (Implementations)
+- [ ] https://jobs.lever.co/trueml/348bcc54-e965-4dae-bfd3-46053ca29e18 | TrueML | Technical Support Engineer I
+- [ ] https://jobs.lever.co/jobgether/4d4053b0-dd14-4937-98b0-c2b9ce9879a3 | Jobgether | Customer Support Engineer, Tier 2
+- [ ] https://jobs.lever.co/controlup/393c0eac-2c87-4041-af82-f11f44f5db4e | ControlUp | Escalation Engineer
+- [ ] https://jobs.lever.co/firstup/885a041b-6ce0-446c-bf5f-6d136bd54be5 | Firstup | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/0a96a0dd-8e1e-4403-bfe5-72c97096b057 | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/trueml/0050bdb6-9a6a-426c-b5e1-84901a9d2488 | TrueML | Technical Support Engineer II
+- [ ] https://jobs.lever.co/jumpcloud/72907d16-2d4b-4daa-a8db-77439ec7fb92 | JumpCloud | Customer Support Engineer, Tier 1 (MacOS/MDM - Mexico)
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
