@@ -363,3 +363,37 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/leandata/03fa3346-720b-4671-9c5f-32b7e36ac753 | LeanData | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/vultr/3a01ed6f-b8a3-4897-b8dd-ccd332ebd71f | Vultr | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/options-it/a0a841a1-5776-4df3-85a4-b3df5abea3e3 | Options Technology | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/vanta/bdebe333-85f3-45c6-99fc-cc356e2ebfbb | Vanta | Technical Support Specialist - West Coast
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/blackpoint%20cyber/e39fb306-51ca-4a7a-af05-a2d912f96d10 | Blackpoint Cyber | Support Engineer III
+- [ ] https://jobs.ashbyhq.com/Junction/e1fc1b0c-7e17-467c-977b-947c509debb0 | Junction | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/factory/a70c27d6-74a1-4856-8f57-3b9dae625789 | Factory | Technical Support Engineer - Remote APAC
+- [ ] https://jobs.ashbyhq.com/expressable/f17ff40f-e19a-4058-8889-eacd2fa1ccec | Expressable | IT Support Specialist
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/rapidfortinc/jobs/4239573009 | RapidFort Inc | Senior Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/federato/jobs/5271051008 | Federato | Technical Support Engineer II
+- [ ] https://job-boards.greenhouse.io/prismatic/jobs/5218487007 | Prismatic | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/coretelligent/jobs/5448702008 | Coretelligent | Remote Support Engineer II
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4715148005 | Tailscale | Senior Customer Support Engineer (Tier 3) Customer Escalations
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/10beauty/jobs/5216061007 | 10Beauty | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/4980637007 | Harbor Global | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | GoMotive | Integration Engineer (Implementations)
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/62d29ab1-993b-4382-9b4f-e5bd4475920c | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/7758574 | Datadog | Technical Support Engineer 3 Premier (US-West)
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/8064226 | Datadog | Technical Escalations Engineer 2 (Network Monitoring)
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/8096181 | Datadog | Technical Support Engineer 2 (Sao Paulo)
+- [ ] https://job-boards.greenhouse.io/datadog/jobs/8097533 | Datadog | Technical Support Engineer 3 (Sao Paulo)
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5530605004 | PagerDuty | Technical Support Specialist II
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/5561231004 | PagerDuty | Technical Support Engineer (Lisbon)
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/8306093002 | Airtable | Technical Support Specialist - East Coast
+- [ ] https://job-boards.greenhouse.io/airtable/jobs/7940694002 | Airtable | Developer Support Engineer - East Coast
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5818258004 | Vercel | Customer Support Engineer (US Remote)
+- [ ] https://job-boards.greenhouse.io/vercel/jobs/5241583004 | Vercel | Senior Customer Support Engineer (UK/Germany)
