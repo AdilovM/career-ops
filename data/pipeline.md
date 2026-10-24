@@ -363,3 +363,31 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/blackpoint%20cyber/e39fb306-51ca-4a7a-af05-a2d912f96d10 | Blackpoint Cyber | Support Engineer III
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/sereact/c0c87e1f-039b-4f01-8dab-e390e1853c82 | Sereact | Senior Support Engineer
+- [ ] https://jobs.ashbyhq.com/1password/977a7202-3aef-4ccb-a493-6042c6327f2c | 1Password | Senior IT Support Engineer
+- [ ] https://jobs.ashbyhq.com/vultr/381877c5-d048-4e7d-b6aa-88cf12fe1179 | Vultr | Senior Technical Support Engineer
+- [ ] https://wellfound.com/jobs/4628805-technical-support-engineer | Zenskar | Technical Support Engineer
+- [ ] https://wellfound.com/jobs/3212383-founding-support-engineer | Lamatic.ai | Founding Support Engineer
+- [ ] https://wellfound.com/jobs/2722123-senior-support-engineer | Zello | Senior Support Engineer
+- [ ] https://wellfound.com/jobs/3775808-senior-it-support-engineer | Motive | Senior IT Support Engineer
+- [ ] https://apply.workable.com/hireframe/j/44E2904D52 | Hireframe | Technical Support Specialist
+- [ ] https://apply.workable.com/supportyourapp/j/AFE181276E | SupportYourApp | Cloud Support Engineer
+- [ ] https://apply.workable.com/supportyourapp/j/403982FF31 | SupportYourApp | Technical Support Engineer
+- [ ] https://apply.workable.com/supportyourapp/j/2AB17F8EE5 | SupportYourApp | Cloud Support Engineer (Remotely)
+- [ ] https://apply.workable.com/ordr-2/j/7E07355172 | Ordr | Technical Support Engineer (TSE)
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7763582 | Greenhouse | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | GoMotive | Integration Engineer (Implementations)
+- [ ] https://jobs.lever.co/levelai/73b4da6c-570a-4fa1-a4f2-de23978a5b6d | Level AI | Implementation Engineer (Remote, US)
+- [ ] https://jobs.lever.co/jobgether/6068fb7d-6c4e-4af4-af42-d78fb8fa3d9a | Jobgether | Implementation Engineer, Customer Support
+- [ ] https://jobs.lever.co/jobgether/0f218352-e646-40bf-b3cd-65eb938af691 | Jobgether | Implementation Engineer, TPRM
+- [ ] https://jobs.lever.co/jobgether/21e15288-51ec-4bbf-80ec-5fec6b1f9472 | Jobgether | Senior Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/1ec06b96-7bc3-4f34-b0bb-e093eb0ab94e | Jobgether | Senior Implementation Engineer (SaaS/Container)
+- [ ] https://jobs.lever.co/jobgether/af22a7d1-9af7-4eea-b44b-656790a5c866 | Jobgether | Senior Implementation Engineer (Ireland/Romania)
+- [ ] https://jobs.lever.co/jobgether/4d2d0a16-3fe8-4d08-90a2-e6546af95ead | Jobgether | Customer Implementation Engineer (Watershed)
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/62d29ab1-993b-4382-9b4f-e5bd4475920c | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
