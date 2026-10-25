@@ -363,3 +363,37 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/blackpoint%20cyber/e39fb306-51ca-4a7a-af05-a2d912f96d10 | Blackpoint Cyber | Support Engineer III
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/careerswift.ai/e1c8712b-6499-40e0-932a-aba0a2adfcd9 | Careerswift | IT Support Specialist - Entry Level
+- [ ] https://jobs.ashbyhq.com/hinge-health/8f7523da-70da-4a70-b32d-6cb294785527 | Hinge Health | Associate Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/1password/977a7202-3aef-4ccb-a493-6042c6327f2c | 1Password | Senior IT Support Engineer
+- [ ] https://jobs.ashbyhq.com/Zello/b22b4682-38ff-4ef5-85e4-414ec288619a | Zello | Escalation Engineer
+- [ ] https://jobs.ashbyhq.com/voxel/5add9292-1fb1-42ec-b327-5373f63a26ea | Voxel | Tier 3 Support Engineer
+- [ ] https://jobs.ashbyhq.com/runway-ml/9f6d216d-2f54-4970-84d7-43ab0a2b4852 | Runway | Support Specialist US Tier 2
+- [ ] https://jobs.ashbyhq.com/highlightta/5580edf6-16f7-4a2a-b4c9-498abf19303e | HighlightTA | Technical Account Manager
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8006811 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer - Platform Support
+- [ ] https://job-boards.greenhouse.io/gofundme/jobs/8089835 | GoFundMe | Technical Support Engineer I
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/datagrail/jobs/7722435003 | DataGrail | Implementation Engineer - Consent
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant Implementation Engineer
+- [ ] https://boards.greenhouse.io/bitwarden/jobs/7867093003 | Bitwarden | Implementation Engineer - Customer Support (APAC)
+- [ ] https://jobs.lever.co/trueml/348bcc54-e965-4dae-bfd3-46053ca29e18 | TrueML | Technical Support Engineer I
+- [ ] https://jobs.lever.co/dijital-team-pty-ltd/c30d91c9-4bbc-48b3-b975-5b3185159818 | Dijital Team | Support Engineer
+- [ ] https://jobs.lever.co/jobgether/4d4053b0-dd14-4937-98b0-c2b9ce9879a3 | Jobgether | Customer Support Engineer Tier 2
+- [ ] https://jobs.lever.co/controlup/393c0eac-2c87-4041-af82-f11f44f5db4e | ControlUp | Escalation Engineer
+- [ ] https://jobs.lever.co/firstup/885a041b-6ce0-446c-bf5f-6d136bd54be5 | Firstup | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/0a96a0dd-8e1e-4403-bfe5-72c97096b057 | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/trueml/0050bdb6-9a6a-426c-b5e1-84901a9d2488 | TrueML | Technical Support Engineer II
+- [ ] https://jobs.lever.co/jumpcloud/72907d16-2d4b-4daa-a8db-77439ec7fb92 | JumpCloud | Customer Support Engineer Tier 1 MacOS MDM Mexico
+- [ ] https://apply.workable.com/hireframe/j/44E2904D52 | Hireframe | Technical Support Specialist
+- [ ] https://apply.workable.com/mindex/j/CE7AFF2FDE | Mindex | Product Support Specialist - Remote
+- [ ] https://apply.workable.com/extremereach/j/E9331A9D25 | Extreme Reach | Senior Technical Support Specialist
+- [ ] https://apply.workable.com/pavago/j/455CCAF59E | Pavago | Technical Support Specialist
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35 | Pavago | Technical Support Specialist (IT Support Specialist)
+- [ ] https://apply.workable.com/formassembly/j/598EE5ABA7/apply | FormAssembly | Principal Technical Support Specialist
+- [ ] https://apply.workable.com/remote-va/j/E84A8CB85E | Remote VA | IT Support Specialist - Remote
+- [ ] https://apply.workable.com/joinremotely/j/871EAE243C | Remotely | Technical Support
