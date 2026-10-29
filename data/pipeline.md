@@ -363,3 +363,24 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8006811 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer - Platform Support
+- [ ] https://job-boards.greenhouse.io/wasabi/jobs/5214686008 | Wasabi Technologies | Principal Cloud Support Engineer
+- [ ] https://job-boards.greenhouse.io/pansophiclearning/jobs/7893693003 | Pansophic Learning | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/filescom/jobs/4595389005 | Files.com | Customer Support Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/axuall/jobs/4562891005 | Axuall | Support Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/gomotive/jobs/8464938002 | Motive | Integration Engineer (Remote)
+- [ ] https://job-boards.greenhouse.io/trackvia/jobs/6521382003 | TrackVia | Implementation Engineer (US Remote)
+- [ ] https://jobs.ashbyhq.com/c1/7f5c0b07-2447-4291-b094-ec08edb3df91 | C1 | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/leandata/03fa3346-720b-4671-9c5f-32b7e36ac753 | LeanData | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/vanta/27ea2eb4-f17c-49bf-a9c9-29a60e1f5e13 | Vanta | Technical Support Engineer (EMEA)
+- [ ] https://jobs.ashbyhq.com/novo/4fa55321-d6d9-4944-80de-1b77d6d66dda | Novo | Escalations Support Specialist
+- [ ] https://jobs.ashbyhq.com/constructor/7a2dde00-a599-4e9e-aad3-2b0fedc6c9de | Constructor | Technical Support Engineer (EMEA)
+- [ ] https://jobs.ashbyhq.com/cogent-security/9083137e-100e-4701-a112-732a6a7e5775 | Cogent Security | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/quicknode/4f986c94-5c3a-461a-952a-cc46dfd42a4d | Quicknode | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer (Canada)
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/62d29ab1-993b-4382-9b4f-e5bd4475920c | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://jobs.lever.co/jobgether/1bd1a99c-3548-4bbb-a8c1-1fecd8df7eaa | Jobgether | Manager, Technical Support
