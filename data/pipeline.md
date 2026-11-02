@@ -363,3 +363,12 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/sciencelogic/jobs/6777552 | Sciencelogic | Sr. Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/smartsheet/jobs/6825681 | Smartsheet | Tier 2 Escalation Specialist
+- [ ] https://job-boards.greenhouse.io/axuall/jobs/4562891005 | Axuall | Support Engineer
+- [ ] https://job-boards.greenhouse.io/protonai/jobs/5407927004 | Proton AI | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/trackvia/jobs/6521382003 | TrackVia | Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/35e9dcde-4a17-47b0-bb12-d9a6b97e1d6a | Jobgether | Support Engineer - Escalation Management
+- [ ] https://jobs.lever.co/jobgether/ee2fad80-559d-4609-8411-237fde3fc315 | Jobgether | Escalation Engineer
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7763582 | Greenhouse | Technical Support Specialist
