@@ -363,3 +363,42 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/leandata/03fa3346-720b-4671-9c5f-32b7e36ac753 | LeanData | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/Lido.fi/8cd5380b-7b63-42cd-98b1-73466b57762e | Lido | Tech Support Specialist
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/blackpoint%20cyber/e39fb306-51ca-4a7a-af05-a2d912f96d10 | Blackpoint Cyber | Support Engineer III
+- [ ] https://jobs.ashbyhq.com/radai/f7f6c747-99a8-4867-9849-1a727da5ce51 | Rad AI | Senior Technical Support Engineer - Overnight Shift (PST)
+- [ ] https://jobs.ashbyhq.com/hinge-health/8f7523da-70da-4a70-b32d-6cb294785527 | Hinge Health | Associate Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/vultr/381877c5-d048-4e7d-b6aa-88cf12fe1179 | Vultr | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/clickup/7dd8ee42-c5cb-4569-8f91-f488cf9d404c | ClickUp | Escalations Engineer
+- [ ] https://jobs.ashbyhq.com/fireworks/14a2388e-3d7d-4f62-b5a4-44d5172a1520 | Fireworks AI | IT Support Engineer
+- [ ] https://jobs.ashbyhq.com/instructure/3ba0efe9-7bb6-498c-be6f-e1f084fa7983 | Instructure | L1 Support Engineer - Portuguese (Part-time)
+- [ ] https://jobs.ashbyhq.com/surgimate/927d991a-9111-4a79-931d-9a7c970e1450 | Surgimate | Tier 2 Support Engineer
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8006811 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://job-boards.greenhouse.io/purestorage/jobs/8119733 | Everpure/Pure Storage | Escalation Engineer
+- [ ] https://job-boards.greenhouse.io/syllo/jobs/4353602009 | Syllo | Senior Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/prismatic/jobs/5218487007 | Prismatic | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/tailscale/jobs/4715148005 | Tailscale | Senior Customer Support Engineer (Tier 3)
+- [ ] https://job-boards.greenhouse.io/strivacity/jobs/4694861007 | Strivacity | Customer Success Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/cleoindia/jobs/4740922005 | Cleo | Implementation Engineer - Night Shift
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Implementation Engineer (Consultant)
+- [ ] https://boards.greenhouse.io/bitwarden/jobs/7867093003 | Bitwarden | Implementation Engineer - Customer Support (APAC)
+- [ ] https://job-boards.greenhouse.io/cresta/jobs/5389409008 | Cresta | Customer Engineer - APAC
+- [ ] https://job-boards.greenhouse.io/nametag/jobs/4417582009 | Nametag | Technical Customer Engineer (Product Support)
+- [ ] https://job-boards.greenhouse.io/smarterdx/jobs/5141607007 | SmarterDx | Senior Integration Engineer (Client-Facing)
+- [ ] https://jobs.lever.co/easypost-2/8cbddae6-525b-4152-900e-83332ba5ccaa | EasyPost | Technical Support Engineer III
+- [ ] https://jobs.lever.co/magnetforensics/1aeef597-5f34-4cfa-b913-dd1c302eb9da | Magnet Forensics | Technical Support Engineer
+- [ ] https://jobs.lever.co/trueml/348bcc54-e965-4dae-bfd3-46053ca29e18 | TrueML | Technical Support Engineer I
+- [ ] https://jobs.lever.co/firstup/885a041b-6ce0-446c-bf5f-6d136bd54be5 | Firstup | Technical Support Engineer
+- [ ] https://jobs.lever.co/agiloft/1ac1e749-74bf-419c-96eb-beb00cc2eb39 | Agiloft | Technical Support Engineer 2
+- [ ] https://jobs.lever.co/trueml/0050bdb6-9a6a-426c-b5e1-84901a9d2488 | TrueML | Technical Support Engineer II
+- [ ] https://jobs.lever.co/truv/f8850166-9773-42cf-8afe-4ee32ac92654 | Truv by Checkr | Lead Technical Support Engineer
+- [ ] https://wellfound.com/jobs/3264511-technical-support-engineer-americas-emea-remote | Hospitable.com | Technical Support Engineer (Americas/EMEA - Remote)
+- [ ] https://wellfound.com/jobs/4628805-technical-support-engineer | Zenskar | Technical Support Engineer
+- [ ] https://apply.workable.com/hireframe/j/44E2904D52 | Hireframe | Technical Support Specialist (Tier 2)
+- [ ] https://apply.workable.com/sideinc/j/AACB05400C | Side | Technical Support Representative - Tier 2
+- [ ] https://apply.workable.com/mindex/j/CE7AFF2FDE | Mindex | Product Support Specialist - Remote
+- [ ] https://apply.workable.com/virtuhire/j/1412BD2C04 | VirtuHire | Tech Support Specialist (Website & Platform Support)
+- [ ] https://apply.workable.com/pavago/j/DE4ACB0E35/ | Pavago | Technical Support Specialist (2)
+- [ ] https://apply.workable.com/remote-va/j/E84A8CB85E | Remote VA | IT Support Specialist (Remote)
