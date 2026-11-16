@@ -363,3 +363,18 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/7652468 | Customer.io | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/remotewoman/jobs/7973194002 | Platform.sh | Cloud Support Engineer
+- [ ] https://job-boards.greenhouse.io/sourcegraph91/jobs/5823076004 | Sourcegraph | Support Engineer (US East)
+- [ ] https://job-boards.greenhouse.io/escribe/jobs/5738839004 | eScribe | Customer Support Specialist II
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7763582 | Greenhouse Software | Technical Support Specialist
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7759667 | Greenhouse Software | Manager Technical Support
+- [ ] https://job-boards.greenhouse.io/northbeam/jobs/4652701006 | Northbeam | Technical Implementation Specialist
+- [ ] https://jobs.lever.co/jobgether/a9d169c3-bf55-4554-9839-bf43f4a3cdda | Jobgether | Senior Support Engineer
+- [ ] https://jobs.lever.co/jobgether/b722f1eb-1382-4197-95a4-5bb8d81943ee | Jobgether | Head of Technical Support
+- [ ] https://jobs.lever.co/jobgether/a3b7b86d-98cf-4e51-8fce-ba5c461ccece | Jobgether | Senior Technical Support Agent
+- [ ] https://jobs.lever.co/jobgether/bb027aea-0eca-4c14-9ec0-b995ccdfba6b | Jobgether | Technical Support Engineer (L2/L3)
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://jobs.lever.co/jobgether/766b511d-7b50-4da3-bc2b-e4c615a488a0 | Jobgether | Senior Technical Support Specialist
+- [ ] https://jobs.lever.co/jobgether/acab9ac7-31cd-4867-b366-fd643c6860b7 | Jobgether | Manager Technical Support
+- [ ] https://jobs.lever.co/jobgether/8d3ba97a-dd3e-41cf-b584-24d2f142bffd | Jobgether | Enterprise Support Engineer
