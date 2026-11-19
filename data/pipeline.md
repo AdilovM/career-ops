@@ -363,3 +363,34 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://jobs.ashbyhq.com/leandata/03fa3346-720b-4671-9c5f-32b7e36ac753 | LeanData | Technical Support Specialist
+- [ ] https://jobs.ashbyhq.com/ElevenLabs/f2bf078d-d104-4a7b-96fd-5187a550f4a0 | ElevenLabs | Technical Customer Support Specialist
+- [ ] https://jobs.ashbyhq.com/plaid/ceaee97f-480e-439d-8a95-b4f13aacc31a | Plaid | Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/blackpoint%20cyber/e39fb306-51ca-4a7a-af05-a2d912f96d10 | Blackpoint Cyber | Support Engineer III
+- [ ] https://jobs.ashbyhq.com/radai/f7f6c747-99a8-4867-9849-1a727da5ce51 | Rad AI | Senior Technical Support Engineer
+- [ ] https://jobs.ashbyhq.com/retell-ai/358f4a48-14ad-4c58-b051-2b48a0159e47 | Retell AI | Support Engineer (Contract)
+- [ ] https://jobs.ashbyhq.com/clickup/7dd8ee42-c5cb-4569-8f91-f488cf9d404c | ClickUp | Escalations Engineer
+- [ ] https://jobs.ashbyhq.com/surgimate/927d991a-9111-4a79-931d-9a7c970e1450 | Surgimate | Tier 2 Support Engineer
+- [ ] https://jobs.ashbyhq.com/Voxel/88955220-d059-458f-a350-ccdacfa18bb3/application | Voxel | Tier 2 Support Engineer
+- [ ] https://jobs.ashbyhq.com/stninc/eed63270-bcbb-445d-a4a4-f17b8cb467fe | STN Inc | Customer Support Engineer (Tier 1/Tier 2)
+- [ ] https://job-boards.greenhouse.io/talkdesk2/jobs/8103304 | Talkdesk | Technical Support Engineer - Platform Support
+- [ ] https://job-boards.greenhouse.io/bpcs/jobs/8006811 | Blueprint Technologies | Support Engineer - Escalation Management
+- [ ] https://job-boards.greenhouse.io/spotme/jobs/7927352003 | SpotMe | Technical Support Engineer (US - Remote)
+- [ ] https://job-boards.greenhouse.io/prismatic/jobs/5218487007 | Prismatic | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/syllo/jobs/4353602009 | Syllo | Senior Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/harborglobal/jobs/5216665007 | Harbor | Consultant, Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/datagrail/jobs/7722435003 | DataGrail | Implementation Engineer, Consent
+- [ ] https://boards.greenhouse.io/bitwarden/jobs/7867093003 | Bitwarden | Implementation Engineer, Customer Support (APAC)
+- [ ] https://job-boards.greenhouse.io/neweratech/jobs/8379279002 | New Era Technology | UC Senior Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/smarterdx/jobs/5141607007 | SmarterDx | Senior Integration Engineer (Client-Facing)
+- [ ] https://jobs.lever.co/trueml/348bcc54-e965-4dae-bfd3-46053ca29e18 | TrueML | Technical Support Engineer I
+- [ ] https://jobs.lever.co/magnetforensics/1aeef597-5f34-4cfa-b913-dd1c302eb9da | Magnet Forensics | Technical Support Engineer
+- [ ] https://jobs.lever.co/jobgether/0a96a0dd-8e1e-4403-bfe5-72c97096b057 | Jobgether | Technical Support Engineer
+- [ ] https://jobs.lever.co/firstup/885a041b-6ce0-446c-bf5f-6d136bd54be5 | Firstup | Technical Support Engineer
+- [ ] https://jobs.lever.co/trueml/0050bdb6-9a6a-426c-b5e1-84901a9d2488 | TrueML | Technical Support Engineer II
+- [ ] https://jobs.lever.co/bluecatnetworks/a975db27-ff4e-4bf7-adcb-529eff44cb9a | BlueCat | Technical Support Engineer
+- [ ] https://wellfound.com/jobs/4797218-technical-support-engineer | Tango | Technical Support Engineer
+- [ ] https://apply.workable.com/hireframe/j/44E2904D52 | Hireframe | Technical Support Specialist
+- [ ] https://apply.workable.com/anavah-talent/j/71CDE2F0EC | Anavah Talent | Technical Support & Operations Specialist
+- [ ] https://apply.workable.com/mindex/j/CE7AFF2FDE | Mindex | Product Support Specialist
+- [ ] https://apply.workable.com/sideinc/j/AACB05400C | Side | Technical Support Representative (Tier 2)
