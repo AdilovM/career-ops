@@ -363,3 +363,24 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/trufflesecurity/jobs/4499979005 | Truffle Security | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/appspace/jobs/5763728004 | Appspace | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/6838797 | Customer.io | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/7652468 | Customer.io | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/semgrep/jobs/4964623007 | Semgrep | Senior Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/sourcegraph91/jobs/5823076004 | Sourcegraph | Support Engineer (IC2)
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7763582 | Greenhouse | Senior Support Engineer
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7759667 | Greenhouse | Manager, Technical Support
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/6850215 | Greenhouse | Technical Support Specialist
+- [ ] https://boards.greenhouse.io/sourcegraph91/jobs/5498640004 | Sourcegraph | Implementation Engineer
+- [ ] https://job-boards.greenhouse.io/protonai/jobs/5407927004 | Proton AI | Integrations Engineer
+- [ ] https://job-boards.greenhouse.io/thanx/jobs/6517371003 | Thanx | Customer Engineer
+- [ ] https://job-boards.greenhouse.io/northbeam/jobs/4652701006 | Northbeam | Technical Implementation Specialist
+- [ ] https://job-boards.greenhouse.io/roadie/jobs/7957533002 | Roadie | Customer Implementations Specialist
+- [ ] https://job-boards.greenhouse.io/roadie/jobs/7948428002 | Roadie | Customer Implementations Specialist
+- [ ] https://job-boards.greenhouse.io/paperlessparts/jobs/4456854005 | PaperlessParts | Integration Engineer
+- [ ] https://jobs.lever.co/jobgether/bb027aea-0eca-4c14-9ec0-b995ccdfba6b | Jobgether | Technical Support Engineer (L2/L3)
+- [ ] https://jobs.lever.co/jobgether/766b511d-7b50-4da3-bc2b-e4c615a488a0 | Jobgether | Senior Technical Support Specialist
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://jobs.lever.co/jobgether/8d3ba97a-dd3e-41cf-b584-24d2f142bffd | Jobgether | Enterprise Support Engineer
+- [ ] https://jobs.lever.co/jobgether/4dd718d4-a9af-4b7a-89e2-71ca745cfa1b | Jobgether | Customer Escalation Manager
