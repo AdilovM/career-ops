@@ -363,3 +363,20 @@
 - [ ] https://jobs.lever.co/bounteous/f7c33457-9b12-47c2-aac4-091917aa9746 | Bounteous | Application Support Engineer
 - [ ] https://job-boards.greenhouse.io/dexory/jobs/4799366101 | Dexory | Remote Support Engineer (Night Shift)
 - [ ] https://job-boards.greenhouse.io/samsara/jobs/8060689 | Samsara | Product Support Engineer (Remote - Canada)
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7763582 | Greenhouse Software | Senior Support Engineer
+- [ ] https://job-boards.greenhouse.io/greenhouse/jobs/7759667 | Greenhouse Software | Manager Technical Support
+- [ ] https://job-boards.greenhouse.io/customerio/jobs/7652468 | Customer.io | Technical Support Engineer
+- [ ] https://job-boards.greenhouse.io/remotewoman/jobs/7973194002 | Remote Woman | Cloud Support Engineer
+- [ ] https://job-boards.greenhouse.io/sourcegraph91/jobs/5823076004 | Sourcegraph | Support Engineer (US East)
+- [ ] https://job-boards.greenhouse.io/escribe/jobs/5738839004 | eScribe | Customer Support Specialist II
+- [ ] https://boards.greenhouse.io/sourcegraph91/jobs/5498640004 | Sourcegraph | Implementation Engineer
+- [ ] https://jobs.lever.co/jobgether/a9d169c3-bf55-4554-9839-bf43f4a3cdda | Jobgether | Senior Support Engineer
+- [ ] https://jobs.lever.co/jobgether/766b511d-7b50-4da3-bc2b-e4c615a488a0 | Jobgether | Senior Technical Support Specialist
+- [ ] https://jobs.lever.co/jobgether/bb027aea-0eca-4c14-9ec0-b995ccdfba6b | Jobgether | Technical Support Engineer (L2/L3)
+- [ ] https://jobs.lever.co/jobgether/9297a189-183a-4bbc-8ed4-e1690657aa45 | Jobgether | Technical Support Engineer 2
+- [ ] https://jobs.lever.co/jobgether/b722f1eb-1382-4197-95a4-5bb8d81943ee | Jobgether | Head of Technical Support
+- [ ] https://jobs.lever.co/jobgether/a3b7b86d-98cf-4e51-8fce-ba5c461ccece | Jobgether | Senior Technical Support Agent
+- [ ] https://jobs.lever.co/jobgether/8d3ba97a-dd3e-41cf-b584-24d2f142bffd | Jobgether | Enterprise Support Engineer
+- [ ] https://jobs.lever.co/jobgether/4dd718d4-a9af-4b7a-89e2-71ca745cfa1b | Jobgether | Customer Escalation Manager
+- [ ] https://apply.workable.com/pavago/j/4579A07AAB/ | Pavago | Technical Support Specialist
+- [ ] https://apply.workable.com/supportyourapp/j/24F45F2AE2/ | SupportYourApp | Technical Support Engineer
